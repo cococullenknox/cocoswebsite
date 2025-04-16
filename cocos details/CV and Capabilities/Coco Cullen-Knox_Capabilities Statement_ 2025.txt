@@ -58,13 +58,4 @@ including synthesising, implementing, and reporting on committee feedback.
 
 Provide an outline of your experience in preparing technical documents describing the state of a
 region’s natural resources or environment.:
-The Nature Conservancy and NRM South (Oct 2024 – March 2025)
-Giant Kelp Marine Forest Conservation and Recovery White Paper prepared for DCCEEW,
-bringing together specialists to inform the review of conservation advice under the EPBC
-Act. This will be followed by a pre workshop survey, workshop and report.
-• Parks Australia, North Network of Commonwealth Marine Parks (April 2021 – Nov 2022)
-Coordinate the review of the North Foundation Implementation Plan and the development
-of the North Consolidation Implementation Plan.
-• Marine Solutions Tasmania (2014 – 2024)
-Numerous Environmental Impact Assessments in accordance with relevant legislation for
-industry and government clients.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
