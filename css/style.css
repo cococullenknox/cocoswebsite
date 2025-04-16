@@ -1681,4 +1681,301 @@ textarea.form-control {
     .contact-image img {
         min-height: 400px;
     }
+}
+
+/* Background Shapes */
+.background-shapes {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 0;
+    pointer-events: none;
+}
+
+.shape {
+    position: absolute;
+    opacity: 0.6;
+    transform-style: preserve-3d;
+    animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/* Circle shapes */
+.shape.circle {
+    border-radius: 50%;
+}
+
+.shape.circle.large {
+    width: 320px;
+    height: 320px;
+    border: 4px solid rgba(183, 65, 14, 0.2);
+    left: 10%;
+    top: 20%;
+    animation: float 20s infinite;
+}
+
+.shape.circle.medium {
+    width: 180px;
+    height: 180px;
+    border: 3px solid rgba(245, 242, 233, 0.7);
+    right: 15%;
+    top: 35%;
+    animation: floatReverse 15s infinite;
+}
+
+.shape.circle.small {
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgba(183, 65, 14, 0.25);
+    right: 25%;
+    bottom: 25%;
+    animation: float 18s infinite;
+}
+
+/* Dot shapes */
+.shape.dot {
+    border-radius: 50%;
+}
+
+.shape.dot.large {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(183, 65, 14, 0.12);
+    left: 25%;
+    bottom: 15%;
+    animation: pulse 8s infinite;
+}
+
+.shape.dot.small {
+    width: 45px;
+    height: 45px;
+    background-color: rgba(245, 242, 233, 0.85);
+    right: 30%;
+    top: 15%;
+    animation: pulse 12s infinite;
+}
+
+.shape.dot.terracotta {
+    background-color: rgba(183, 65, 14, 0.15);
+}
+
+.shape.dot.sage {
+    background-color: rgba(144, 158, 145, 0.25);
+}
+
+.shape.dot.beige {
+    background-color: rgba(245, 242, 233, 0.85);
+}
+
+/* Triangle shapes */
+.shape.triangle {
+    width: 0;
+    height: 0;
+}
+
+.shape.triangle.large {
+    border-left: 85px solid transparent;
+    border-right: 85px solid transparent;
+    border-bottom: 170px solid rgba(183, 65, 14, 0.12);
+    right: 20%;
+    top: 40%;
+    animation: rotate 25s infinite linear;
+}
+
+.shape.triangle.small {
+    border-left: 45px solid transparent;
+    border-right: 45px solid transparent;
+    border-bottom: 90px solid rgba(144, 158, 145, 0.2);
+    left: 15%;
+    bottom: 30%;
+    animation: floatReverse 22s infinite;
+}
+
+/* Square shapes */
+.shape.square {
+    transform: rotate(45deg);
+}
+
+.shape.square.large {
+    width: 140px;
+    height: 140px;
+    background-color: rgba(183, 65, 14, 0.12);
+    animation: float 18s infinite;
+}
+
+.shape.square.small {
+    width: 70px;
+    height: 70px;
+    background-color: rgba(144, 158, 145, 0.2);
+    animation: floatReverse 20s infinite;
+}
+
+/* Rectangle shapes */
+.shape.rectangle {
+    border-radius: 4px;
+}
+
+.shape.rectangle.wide {
+    width: 220px;
+    height: 70px;
+    background-color: rgba(245, 242, 233, 0.7);
+    animation: floatReverse 22s infinite;
+}
+
+.shape.rectangle.tall {
+    width: 70px;
+    height: 180px;
+    background-color: rgba(183, 65, 14, 0.12);
+    animation: float 24s infinite;
+}
+
+/* Hexagon shape */
+.shape.hexagon {
+    width: 120px;
+    height: 69.282px;
+    background-color: rgba(144, 158, 145, 0.2);
+    position: absolute;
+    animation: float 15s infinite;
+}
+
+.shape.hexagon:before,
+.shape.hexagon:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+}
+
+.shape.hexagon:before {
+    top: -34.641px;
+    border-bottom: 34.641px solid rgba(144, 158, 145, 0.2);
+}
+
+.shape.hexagon:after {
+    bottom: -34.641px;
+    border-top: 34.641px solid rgba(144, 158, 145, 0.2);
+}
+
+/* Line shapes */
+.shape.line {
+    transform-origin: left center;
+}
+
+.shape.line.long {
+    width: 250px;
+    height: 4px;
+    background-color: rgba(183, 65, 14, 0.2);
+    animation: floatReverse 20s infinite;
+}
+
+.shape.line.medium {
+    width: 150px;
+    height: 3px;
+    background-color: rgba(144, 158, 145, 0.25);
+    animation: float 18s infinite;
+}
+
+.shape.line.short {
+    width: 100px;
+    height: 2px;
+    background-color: rgba(245, 242, 233, 0.7);
+    animation: floatReverse 16s infinite;
+}
+
+/* Cross shape */
+.shape.cross {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+}
+
+.shape.cross:before,
+.shape.cross:after {
+    content: '';
+    position: absolute;
+    background-color: rgba(183, 65, 14, 0.15);
+}
+
+.shape.cross:before {
+    width: 100%;
+    height: 3px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.shape.cross:after {
+    width: 3px;
+    height: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Make sure content stays above shapes */
+.container-fluid {
+    position: relative;
+    z-index: 2;
+}
+
+.section-title,
+.approach-card,
+.testimonial-card,
+.project-card,
+.about-image,
+.expertise-list {
+    position: relative;
+    z-index: 2;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0) translateX(0) rotate(0);
+    }
+    50% {
+        transform: translateY(45px) translateX(30px) rotate(10deg);
+    }
+    100% {
+        transform: translateY(-35px) translateX(-25px) rotate(-10deg);
+    }
+}
+
+@keyframes floatReverse {
+    0% {
+        transform: translateY(0) translateX(0) rotate(0);
+    }
+    50% {
+        transform: translateY(-40px) translateX(-25px) rotate(-10deg);
+    }
+    100% {
+        transform: translateY(30px) translateX(20px) rotate(10deg);
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1) translateY(0);
+        opacity: 0.6;
+    }
+    50% {
+        transform: scale(1.25) translateY(-20px);
+        opacity: 0.8;
+    }
+    100% {
+        transform: scale(1) translateY(0);
+        opacity: 0.6;
+    }
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
 } 
