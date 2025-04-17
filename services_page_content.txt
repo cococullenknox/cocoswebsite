@@ -1,57 +1,70 @@
-# SERVICES PAGE CONTENT
+# Services Page Content
 
-## HERO SECTION
-- Heading: My Services
-- Subtitle: Environmental Governance & Policy Solutions
+## Page Header
+- Subtitle: SERVICES
+- Title: RESEARCH & CONSULTING
 
-## SERVICES OVERVIEW
-- Text: [Overview of your services]
+## Core Services Section
 
-## SERVICE CATEGORIES
+### Stakeholder Engagement + Consultation
+- Description: IAP2 certified with expertise in international engagement standards, including the AA1000 Stakeholder Engagement Standard.
+- Services:
+  - Stakeholder analysis and mapping
+  - Development and implementation of engagement plans
+  - Interviews, surveys, and workshops
+  - Analysis and evaluation of engagement activities
 
-### Environmental Governance
-- Heading: Environmental Governance
-- Description: [Description of this service]
-- Key Offerings:
-  - [Service 1]
-  - [Service 2]
-  - [Service 3]
+### Natural Resource Governance + Policy Advice
+- Description: Specialising in distilling expert knowledge and diverse data to guide best practices in natural resource governance.
+- Services:
+  - Comprehensive knowledge reviews
+  - Qualitative data collection and analysis
+  - Policy development and advice
+  - Governance framework development
 
-### Stakeholder Engagement
-- Heading: Stakeholder Engagement
-- Description: [Description of this service]
-- Key Offerings:
-  - [Service 1]
-  - [Service 2]
-  - [Service 3]
+### Communication + Knowledge Broker
+- Description: Expert in translating complex environmental and social science research into actionable insights.
+- Services:
+  - Science communication
+  - Knowledge translation
+  - Research synthesis
+  - Stakeholder information sharing
 
-### Policy Development
-- Heading: Policy Development
-- Description: [Description of this service]
-- Key Offerings:
-  - [Service 1]
-  - [Service 2]
-  - [Service 3]
+## Areas of Expertise Section
 
-### Knowledge Translation
-- Heading: Knowledge Translation
-- Description: [Description of this service]
-- Key Offerings:
-  - [Service 1]
-  - [Service 2]
-  - [Service 3]
+### Commercial Fisheries / Seafood
+- Description: Expertise in understanding fisher perspectives, financial considerations, and regulatory mechanisms in commercial fisheries.
+- Projects:
+  - Tasmanian Seafood Industry Assessment
+  - Sustainable Fishing Practices Study
+  - Fisher Engagement Program
+  - Industry Policy Review
 
-## PROCESS SECTION
-- Heading: My Process
-- Text: [Description of your approach to projects]
+### Recreational Fisheries
+- Description: Specialized in feasibility assessments and stakeholder consultation for recreational fishing initiatives.
+- Projects:
+  - Community Fishing Program
+  - Recreational Fishing Policy Framework
+  - Stakeholder Workshop Series
+  - Impact Assessment Study
 
-### Process Steps
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-4. [Step 4]
+### Integrated Marine Estate + Protected Area Management
+- Description: Experience in marine park management, including Indigenous engagement and science program delivery.
+- Projects:
+  - Marine Protected Areas Strategy
+  - Marine Science Integration
+  - Indigenous Engagement Framework
+  - Conservation Planning Initiative
 
-## CONTACT SECTION
-- Heading: Ready to Get Started?
-- Text: Let's discuss how I can help with your environmental governance needs.
-- Button: Schedule a Consultation 
+### Climate Change + Changing Oceans
+- Description: Expertise in climate change communication and public engagement in marine environments.
+- Projects:
+  - Ocean Climate Impact Study
+  - Climate Adaptation Workshops
+  - Community Resilience Program
+  - Marine Climate Research Translation
+
+## Call to Action Section
+- Title: Ready to Collaborate?
+- Description: Let's work together to create lasting environmental change through effective stakeholder engagement and evidence-based decision making.
+- Button Text: Get in Touch 

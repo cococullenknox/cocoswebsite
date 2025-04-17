@@ -633,6 +633,34 @@ h1, h2, h3, .navbar-brand {
     overflow: hidden;
 }
 
+.background-content {
+    padding: 2rem;
+    background-color: var(--white);
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    position: relative;
+    overflow: hidden;
+}
+
+.background-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4px;
+    height: 100%;
+    background-color: var(--accent);
+    border-radius: 4px 0 0 4px;
+    transition: all 0.3s ease;
+}
+
+.background-content .lead {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: var(--gray);
+}
+
 .about-image {
     position: relative;
     max-width: 400px;

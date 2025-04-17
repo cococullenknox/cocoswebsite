@@ -1,0 +1,152 @@
+# Case Studies Page Content
+
+## Page Header
+- Subtitle: CASE STUDIES
+- Title: PROJECT DEEP DIVES
+
+## Commercial Fisheries Section
+
+### Futures of Seafood
+- Category: Research & Analysis
+- Date: 2024
+- Client: Blue Economy CRC
+- Overview: Understanding the current state of Australian seafood in the context of marine uses in Australia to understand challenges and opportunities and inform future decision making regarding marine governance.
+- Methods:
+  - Thematic analysis of thousands of reports and submissions from peak bodies over the previous 5 year period
+  - Review of marine use sectors to understand their drivers, management, activities and the pressures, risks and opportunities in relation to commercial fisheries
+- Outputs: What we heard reports, insights reports, marine user profiles
+- Tags: literature Review, Industry Research
+
+### Tasmanian Rock Lobster Fishery
+- Category: Research & Analysis
+- Date: 2021
+- Client: University of Tasmania
+- Overview: Understanding fisher perspectives of financial considerations, social interactions and the regulatory and managerial mechanisms of the fishery.
+- Methods:
+  - Interviews with commercial fishers and licence/quota holders
+  - Qualitative data analysis and reporting
+- Outputs: Summary reports to support evidence based decision-making and broader research objectives
+- Tags: Stakeholder Consultation, Interviews, Qualtiative Data Analysis, Industry Research
+
+### Tasmanian Salmon Aquaculture
+- Category: Community Consultation
+- Date: 2016
+- Client: Tassal (with Marine Solutions Tasmania)
+- Overview: Understanding community perception of proposed local developments.
+- Methods:
+  - Develop, implement and analyse a survey of local residents
+  - Be the primary contact for public enquiries
+- Outputs: Consultation report
+- Tags: Community Engagement, Stakeholder Analysis, Industry Research
+
+### Seafood and Fisheries Emerging Technologies Conference
+- Category: Conference & Knowledge Sharing
+- Date: 2018-2019
+- Client: World Wide Fund for Nature
+- Overview: Co-deliverey of the Seafood and Fisheries Emerging Technologies Conference held in Bangkok, Thailand attended by 250 participants from around the world.
+- Methods:
+  - Conference organisation and facilitation
+- Outputs: Conference summary report available at https://docs.wixstatic.com/ugd/a17859_8c02db62167d47d9a1555d4762720ecb.pdf
+- Tags: Knowledge Translation, Conference Facilitation
+
+## Recreational Fisheries Section
+
+### Feasibility Assessment for FADS and Artificial Reefs
+- Category: Feasibility Study
+- Date: 2020
+- Client: Marine and Safety Tasmania (MAST) (with Marine Solutions Tasmania)
+- Overview: Undertake a Feasibility assessment of Fish Aggregation Devices (FADs) and Artificial reefs in Tasmania to meet a state government election commitment to enhance recreational fishing in Tasmania.
+- Methods:
+  - Stakeholder analysis and consultation
+  - Workshop and interviews with key stakeholders
+  - Public consultation sessions and submissions
+  - Literature review
+  - Policy review
+  - Economic analysis
+- Outputs: Feasibility report and recommendations for locations and approach to installing FADs and Artificial reefs in Tasmanian waters
+- Tags: Feasibility Assessment, Stakeholder Engagement
+
+### Science Education for Recreational Game Fishing
+- Category: Research & Education
+- Date: 2020
+- Client: UTAS (Tuna Champions)
+- Overview: Design survey to understand recreational fishing habits in the Australian Southern Bluefin Tuna fishery.
+- Methods:
+  - Survey design
+  - Survey implementation with recreational fishers
+- Outputs: Survey design
+- Tags: Applied Research, Science Communication, Stakeholder Consultation
+
+## Marine Estate Management Section
+
+### Giant Kelp Marine Forest Conservation and Recovery
+- Category: Conservation Strategy
+- Date: 2024/2025
+- Client: The Nature Conservancy and NRM South (with Centre for Marine Socioecology)
+- Overview: A white paper bringing together expert input on Giant Kelp Forest conservation to inform the review of conservation advice under the EPBC Act.
+- Methods:
+  - Expert engagement
+- Outputs: White paper
+- Tags: Conservation, Policy Advice, Stakeholder Engagement
+
+### Marine Estate Management Review
+- Category: Strategic Planning
+- Date: 2020/2021
+- Client: Department of Primary Industries NSW (with the Center for Marine Socioecology)
+- Overview: A needs-based review for agencies with responsibilities under the New South Wales Marine Estate Management Strategy.
+- Methods:
+  - Internal stakeholder survey
+  - Needs-based literature review
+- Outputs: Strategic advice for integrated marine estate management, including guidance on operational planning, short, medium and long-term strategy, and capacity building.
+- Tags: Strategic Planning, Integrated Marine Management, Stakeholder Engagement
+
+### North Marine Parks Network Management
+- Category: Marine Park Management
+- Date: 2021-2022
+- Client: Parks Australia - Marine and Islands Branch
+- Overview: Implementation of the North Marine Parks Network Management Plan 2018.
+- Methods:
+  - Delivery of marine science program for the Northern Australian Marine Parks
+  - Support for North Australian Marine Park Advisory Committee meetings
+  - Representation in internal and external stakeholder meetings and workshops
+  - Coordination of the review of the North Foundation Implementation Plan and development of the North Consolidation Implementation Plan
+  - Supported science partners delivering two-way/right-way science in Commonwealth Marine Parks by aligning projects with principles of Indigenous-led collaboration and knowledge integration, and contributing to respectful, culturally informed research and engagement activities.
+- Outputs: Science Plan, Implementation Plans, Advisory Committee Meetings
+- Tags: Marine Park Management, Implementation Planning, Stakeholder Engagement
+
+## Climate Change Initiatives Section
+
+### Curious Climate
+- Category: Science Communication
+- Date: 2020
+- Client: Centre for Marine Socioecology (and the ABC)
+- Overview: Analysis of public responses to inform public information sessions and research papers. https://curiousclimate.org.au/
+- Methods:
+  - Public response analysis
+- Outputs: Survey design and analysis to support public science communication sessions.
+- Tags: Science Communication, Public Engagement, Knowledge Translation
+
+### Governing Changing Oceans
+- Category:  Governing Marine Interventions
+- Date: 2023
+- Client: Centre for Marine Socioecology (and the ABC)
+- Overview: Understanding how improved marine governance can guide more responsible, equitable, and effective interventions in climate-impacted oceans
+- Methods:
+  - Survey analysis
+- Outputs: survey analysis to support a marine intervention governance protocol and self-assessment tool to help decision makers identify governance capacity and needs, and to provide guidance on approaches to ensure responsible and effective intervention.
+- Tags: Marine Governance, Stakeholder Survey
+
+## Business Section
+
+### ThinkBank
+- Category: Policy Development
+- Date: 2018-2019
+- Client: Tas Leaders
+- Overview: Deep dive into issues affecting Tasmanian businesses
+- Methods:
+  - Participant interviews
+  - Literature reviews
+- Outputs: Synthesis of participants interviews and literature reviews and reporting to support Tasmanian policy development.
+  - "Our Place in the Sun: Harvesting Tasmania's Agritourism" report https://www.tasmanianleaders.org.au/wp-content/uploads/2019/12/Ideas-from-Thinkbank-2019-Our-Place-in-the-Sun.pdf
+  - "What stops us? Small Business: overcoming obstacles and seizing opportunities" report https://www.tasmanianleaders.org.au/wp-content/uploads/2019/05/Thinkbank-2018-Small-Business_FinalReport.pdf
+- Tags: Policy Development, Stakeholder Engagement, Knowledge Translation 
