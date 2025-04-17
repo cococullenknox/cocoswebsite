@@ -47,6 +47,18 @@ h1, h2, h3, .navbar-brand {
     margin-bottom: 4rem;
     position: relative;
     color: var(--accent);
+    text-align: center;
+}
+
+.section-title::after {
+    content: '';
+    position: absolute;
+    bottom: -1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 3px;
+    background-color: var(--accent);
 }
 
 /* Navigation */
@@ -1977,5 +1989,149 @@ textarea.form-control {
     }
     to {
         transform: rotate(360deg);
+    }
+}
+
+/* Approach Cards */
+.approach-statement {
+    max-width: 900px;
+    margin: 0 auto 3rem;
+}
+
+.approach-statement .lead {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    color: var(--text-color);
+    margin-bottom: 0;
+}
+
+/* Process Activities Section */
+.process-activities {
+    margin-top: 5rem;
+    padding: 2rem 0;
+}
+
+.process-activities h3 {
+    color: var(--accent);
+    margin-bottom: 4rem;
+    font-size: 2rem;
+    text-align: center;
+    position: relative;
+}
+
+.process-activities h3:after {
+    content: '';
+    position: absolute;
+    bottom: -1rem;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 3px;
+    background-color: var(--accent);
+}
+
+.process-step {
+    margin-bottom: 3rem;
+    position: relative;
+    padding: 2rem;
+    background-color: var(--white);
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+}
+
+.process-step:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.process-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+
+.process-icon {
+    width: 50px;
+    height: 50px;
+    background-color: var(--accent);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+    color: var(--white);
+    font-size: 1.5rem;
+}
+
+.process-header h4 {
+    margin: 0;
+    color: var(--accent);
+    font-size: 1.5rem;
+}
+
+.process-activities-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.activity-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 1.5rem;
+    border-radius: 8px;
+    background-color: var(--beige);
+    transition: all 0.3s ease;
+}
+
+.activity-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+.activity-icon {
+    width: 40px;
+    height: 40px;
+    background-color: var(--accent-light);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+    color: var(--white);
+    font-size: 1rem;
+    flex-shrink: 0;
+}
+
+.activity-content {
+    flex: 1;
+}
+
+.activity-content h5 {
+    margin: 0 0 0.5rem 0;
+    color: var(--accent);
+    font-size: 1.1rem;
+}
+
+.activity-content p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--gray);
+}
+
+/* Responsive styles for process activities */
+@media (max-width: 768px) {
+    .process-step {
+        padding: 1.5rem;
+    }
+    
+    .activity-item {
+        padding: 1rem;
+    }
+    
+    .process-header {
+        margin-bottom: 1.5rem;
     }
 } 

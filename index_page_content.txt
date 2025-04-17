@@ -1,0 +1,113 @@
+# WEBSITE CONTENT
+
+## HERO SECTION
+- Subtitle: Environmental Sociologist
+- Heading: Bridging Science & Society
+- Button: View Projects
+
+## APPROACH SECTION
+- Heading: My Approach
+- Heading Style: Underline
+- Statement: Effective environmental and natural resource governance depends on meaningful dialogue, inclusive decision-making, and collaboration across diverse groups. I facilitate decision-making processes that are transparent, accountable, reflexive, and adaptive. Combining environmental and social science expertise, I support clients to navigate complex socio-ecological challenges by turning complex insights into clear, actionable pathways for governance and policy.
+
+### Approach Cards
+1. Research
+   - Text: Conducting thorough analysis of complex socio-environmental issues, governance and knowledge systems tailored to project needs.
+
+2. Engage
+   - Text: Facilitating meaningful stakeholder engagement and consultation processes to ensure diverse perspectives are considered in decision-making.
+
+3. Impact
+   - Text: Developing practical solutions grounded in evidence, shaped by stakeholders, and aligned with policy needs to deliver actionable recommendations for effective, future-focused decision-making.
+
+### Process Activities
+- Heading: My Process in Action
+
+#### Research Activities
+1. Literature Review
+   - Text: Comprehensive analysis of existing research, policies, and frameworks
+
+2. Data Analysis
+   - Text: Quantitative and qualitative analysis of environmental and social data
+
+3. Context Mapping
+   - Text: Mapping of governance structures, stakeholders, and knowledge systems
+
+#### Engage Activities
+1. Stakeholder Workshops
+   - Text: Facilitated workshops to gather diverse perspectives and build consensus
+
+2. Collaborative Planning
+   - Text: Co-design of solutions with stakeholders from various sectors
+
+3. Public Consultation
+   - Text: Structured consultation processes to ensure inclusive decision-making
+
+#### Impact Activities
+1. Policy Recommendations
+   - Text: Evidence-based recommendations aligned with policy frameworks
+
+2. Implementation Plans
+   - Text: Practical action plans with clear timelines and responsibilities
+
+3. Impact Assessment
+   - Text: Monitoring and evaluation frameworks to track outcomes
+
+## BACKGROUND SECTION
+- Heading: Background
+- Heading Style: Underline
+- Text: Coco brings over a decade of experience in environmental governance, stakeholder engagement, and applied research, working across all levels of government, industry, NGOs, and academia. With a unique blend of environmental and social science expertise, she specialises in designing and delivering robust engagement and review processes that generate evidence-based advice and support practical, stakeholder-informed policy and governance decisions.
+
+### Areas of Expertise
+- Environmental Governance
+- Stakeholder Engagement
+- Knowledge Translation
+- Marine Conservation
+- Policy Development
+- Research Impact Assessment
+
+## WORK SECTION
+- Heading: Selected Work
+- Heading Style: Underline
+
+### Project Cards
+1. Marine Conservation
+   - Category: Environmental Project
+   - Text: Stakeholder engagement strategy
+
+2. Policy Development
+   - Category: Policy Project
+   - Text: Environmental governance framework
+
+3. Research Impact
+   - Category: Research Project
+   - Text: Knowledge translation program
+
+## TESTIMONIALS SECTION
+- Heading: Voices of Impact
+- Heading Style: Underline
+
+### Testimonial 1
+- Text: "Coco's expertise in environmental sociology has been invaluable to our marine conservation project. Her ability to bridge scientific research with community engagement transformed our approach."
+- Author: Dr. Sarah Johnson
+- Position: Marine Conservation Institute
+
+### Testimonial 2
+- Text: "Working with Coco on our fisheries policy development was a game-changer. Her sociological insights helped us create more effective and inclusive policies that gained community support."
+- Author: Michael Chen
+- Position: Department of Fisheries
+
+### Testimonial 3
+- Text: "Coco's knowledge translation strategies helped us communicate complex environmental data to stakeholders in a way that was accessible and actionable. Highly recommended!"
+- Author: Emma Rodriguez
+- Position: Environmental Research Center
+
+## CONTACT SECTION
+- Heading: Let's Work Together
+- Heading Style: Underline
+- Text: Ready to create lasting environmental change?
+- Button: Get in Touch
+
+## FOOTER
+- Copyright: © 2024 Coco Cullen-Knox
+- Social: LinkedIn 

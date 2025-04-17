@@ -1,0 +1,61 @@
+# PROJECTS PAGE CONTENT
+
+## HERO SECTION
+- Heading: My Projects
+- Subtitle: Environmental Governance & Policy Solutions in Action
+
+## PROJECTS OVERVIEW
+- Text: [Overview of your projects]
+
+## FEATURED PROJECTS
+
+### Project 1: Marine Conservation
+- Heading: Marine Conservation Project
+- Category: Environmental Project
+- Client: [Client Name]
+- Duration: [Time Period]
+- Description: [Project description]
+- Challenge: [The challenge faced]
+- Solution: [Your approach and solution]
+- Outcome: [Results and impact]
+
+### Project 2: Policy Development
+- Heading: Policy Development Framework
+- Category: Policy Project
+- Client: [Client Name]
+- Duration: [Time Period]
+- Description: [Project description]
+- Challenge: [The challenge faced]
+- Solution: [Your approach and solution]
+- Outcome: [Results and impact]
+
+### Project 3: Research Impact
+- Heading: Knowledge Translation Program
+- Category: Research Project
+- Client: [Client Name]
+- Duration: [Time Period]
+- Description: [Project description]
+- Challenge: [The challenge faced]
+- Solution: [Your approach and solution]
+- Outcome: [Results and impact]
+
+## CASE STUDIES
+- Heading: Case Studies
+- Text: [Introduction to case studies]
+
+### Case Study 1
+- Title: [Case Study Title]
+- Description: [Brief description]
+
+### Case Study 2
+- Title: [Case Study Title]
+- Description: [Brief description]
+
+### Case Study 3
+- Title: [Case Study Title]
+- Description: [Brief description]
+
+## CONTACT SECTION
+- Heading: Interested in Working Together?
+- Text: Let's discuss how I can help with your environmental governance needs.
+- Button: Get in Touch 

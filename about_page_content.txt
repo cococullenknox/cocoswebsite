@@ -1,0 +1,38 @@
+# ABOUT PAGE CONTENT
+
+## HERO SECTION
+- Heading: About Me
+- Subtitle: Environmental Sociologist & Policy Advisor
+
+## BIOGRAPHY SECTION
+- Heading: My Journey
+- Text: [Your detailed biography will go here]
+
+## EXPERTISE SECTION
+- Heading: Areas of Expertise
+- Text: [Description of your expertise areas]
+
+### Expertise List
+- Environmental Governance
+- Stakeholder Engagement
+- Knowledge Translation
+- Marine Conservation
+- Policy Development
+- Research Impact Assessment
+
+## EDUCATION SECTION
+- Heading: Education
+- Text: [Your educational background]
+
+## EXPERIENCE SECTION
+- Heading: Professional Experience
+- Text: [Your work experience]
+
+## VALUES SECTION
+- Heading: My Values
+- Text: [Your core values and principles]
+
+## CONTACT SECTION
+- Heading: Let's Connect
+- Text: Interested in working together?
+- Button: Get in Touch 

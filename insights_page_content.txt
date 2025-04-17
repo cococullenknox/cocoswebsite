@@ -1,0 +1,70 @@
+# INSIGHTS PAGE CONTENT
+
+## HERO SECTION
+- Heading: Insights & Resources
+- Subtitle: Environmental Governance Knowledge Hub
+
+## INSIGHTS OVERVIEW
+- Text: [Overview of your insights and resources]
+
+## FEATURED INSIGHTS
+
+### Insight 1
+- Title: [Insight Title]
+- Category: [Category]
+- Date: [Publication Date]
+- Summary: [Brief summary of the insight]
+- Key Points:
+  - [Point 1]
+  - [Point 2]
+  - [Point 3]
+
+### Insight 2
+- Title: [Insight Title]
+- Category: [Category]
+- Date: [Publication Date]
+- Summary: [Brief summary of the insight]
+- Key Points:
+  - [Point 1]
+  - [Point 2]
+  - [Point 3]
+
+### Insight 3
+- Title: [Insight Title]
+- Category: [Category]
+- Date: [Publication Date]
+- Summary: [Brief summary of the insight]
+- Key Points:
+  - [Point 1]
+  - [Point 2]
+  - [Point 3]
+
+## RESOURCES SECTION
+- Heading: Resources
+- Text: [Introduction to resources]
+
+### Resource Categories
+1. Environmental Governance
+   - [Resource 1]
+   - [Resource 2]
+   - [Resource 3]
+
+2. Stakeholder Engagement
+   - [Resource 1]
+   - [Resource 2]
+   - [Resource 3]
+
+3. Policy Development
+   - [Resource 1]
+   - [Resource 2]
+   - [Resource 3]
+
+4. Knowledge Translation
+   - [Resource 1]
+   - [Resource 2]
+   - [Resource 3]
+
+## CONTACT SECTION
+- Heading: Stay Updated
+- Text: Subscribe to receive the latest insights and resources.
+- Button: Subscribe 

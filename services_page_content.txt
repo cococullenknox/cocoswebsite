@@ -1,0 +1,57 @@
+# SERVICES PAGE CONTENT
+
+## HERO SECTION
+- Heading: My Services
+- Subtitle: Environmental Governance & Policy Solutions
+
+## SERVICES OVERVIEW
+- Text: [Overview of your services]
+
+## SERVICE CATEGORIES
+
+### Environmental Governance
+- Heading: Environmental Governance
+- Description: [Description of this service]
+- Key Offerings:
+  - [Service 1]
+  - [Service 2]
+  - [Service 3]
+
+### Stakeholder Engagement
+- Heading: Stakeholder Engagement
+- Description: [Description of this service]
+- Key Offerings:
+  - [Service 1]
+  - [Service 2]
+  - [Service 3]
+
+### Policy Development
+- Heading: Policy Development
+- Description: [Description of this service]
+- Key Offerings:
+  - [Service 1]
+  - [Service 2]
+  - [Service 3]
+
+### Knowledge Translation
+- Heading: Knowledge Translation
+- Description: [Description of this service]
+- Key Offerings:
+  - [Service 1]
+  - [Service 2]
+  - [Service 3]
+
+## PROCESS SECTION
+- Heading: My Process
+- Text: [Description of your approach to projects]
+
+### Process Steps
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+4. [Step 4]
+
+## CONTACT SECTION
+- Heading: Ready to Get Started?
+- Text: Let's discuss how I can help with your environmental governance needs.
+- Button: Schedule a Consultation 
