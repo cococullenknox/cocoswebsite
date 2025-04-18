@@ -34,14 +34,14 @@
    - Text: Mapping of governance structures, stakeholders, and knowledge systems
 
 #### Engage Activities
-1. Stakeholder Workshops
-   - Text: Facilitated workshops to gather diverse perspectives and build consensus
+1. Stakeholder Engagement
+   - Text: Design and implement workshops, interviews and surveys to gather diverse perspectives
 
 2. Collaborative Planning
-   - Text: Co-design of solutions with stakeholders from various sectors
+   - Text: Co-design of processes and solutions with stakeholders from various sectors
 
-3. Public Consultation
-   - Text: Structured consultation processes to ensure inclusive decision-making
+3. Communicate Purpose
+   - Text: Targeted communications (inc. websites & digital tools) to inform, engage, and collect feedback.
 
 #### Impact Activities
 1. Policy Recommendations
@@ -59,12 +59,10 @@
 - Text: Coco brings over a decade of experience in environmental governance, stakeholder engagement, and applied research, working across all levels of government, industry, NGOs, and academia. With a unique blend of environmental and social science expertise, she specialises in designing and delivering robust engagement and review processes that generate evidence-based advice and support practical, stakeholder-informed policy and governance decisions.
 
 ### Areas of Expertise
-- Environmental Governance
-- Stakeholder Engagement
-- Knowledge Translation
-- Marine Conservation
-- Policy Development
-- Research Impact Assessment
+- Environmental Governance and Policy Advice
+- Stakeholder Engagement and Consultation
+- Knowledge Brokering
+- Applied Research
 
 ## WORK SECTION
 - Heading: Selected Work
@@ -105,9 +103,9 @@
 ## CONTACT SECTION
 - Heading: Let's Work Together
 - Heading Style: Underline
-- Text: Ready to create lasting environmental change?
+- Text: Ready to create lasting change?
 - Button: Get in Touch
 
 ## FOOTER
-- Copyright: © 2024 Coco Cullen-Knox
+- Copyright: © 2025 Coco Cullen-Knox
 - Social: LinkedIn 

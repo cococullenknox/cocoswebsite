@@ -1,0 +1,142 @@
+/* Services Page Specific Styles */
+
+/* Service Packages */
+.service-package {
+    padding: 2rem 0;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.service-package:last-child {
+    border-bottom: none;
+}
+
+.service-icon {
+    font-size: 2.5rem;
+    color: var(--accent);
+    margin-bottom: 1.5rem;
+}
+
+.service-intro {
+    font-size: 1.1rem;
+    color: var(--gray);
+    margin-bottom: 2rem;
+}
+
+/* Service Components */
+.service-component {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.service-component h4 {
+    color: var(--accent);
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+
+.component-details {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+}
+
+.detail-section h5 {
+    color: var(--black);
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--accent);
+}
+
+.detail-section ul {
+    padding-left: 1.2rem;
+}
+
+.detail-section li {
+    margin-bottom: 0.5rem;
+    color: var(--gray);
+    font-size: 0.95rem;
+}
+
+/* Testimonials */
+.testimonials-section {
+    background-color: var(--beige);
+}
+
+.testimonial-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    height: 100%;
+}
+
+.testimonial-text {
+    font-style: italic;
+    color: var(--gray);
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+}
+
+.testimonial-author {
+    font-weight: 600;
+    color: var(--accent);
+    margin-bottom: 0;
+}
+
+/* Call to Action */
+.cta-section {
+    background-color: var(--accent);
+    color: white;
+}
+
+.cta-section h2 {
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.cta-section .lead {
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 2rem;
+}
+
+.cta-section .btn-primary {
+    background-color: white;
+    color: var(--accent);
+    border: none;
+    padding: 0.75rem 2rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.cta-section .btn-primary:hover {
+    background-color: var(--beige);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 992px) {
+    .component-details {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .service-package .row {
+        flex-direction: column;
+    }
+    
+    .service-package .col-lg-4 {
+        margin-bottom: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .testimonial-card {
+        margin-bottom: 1.5rem;
+    }
+} 

@@ -1,70 +1,165 @@
-# Services Page Content
+# SERVICES CONTENT
 
-## Page Header
-- Subtitle: SERVICES
-- Title: RESEARCH & CONSULTING
+## PAGE HEADER
+SERVICES
+RESEARCH & CONSULTING
 
-## Core Services Section
+## INTRODUCTION
+I offer specialised consulting services to help organisations navigate complex natural resource and conservation challenges. Each service is tailored to meet your specific needs and deliver actionable outcomes.
 
-### Stakeholder Engagement + Consultation
-- Description: IAP2 certified with expertise in international engagement standards, including the AA1000 Stakeholder Engagement Standard.
-- Services:
-  - Stakeholder analysis and mapping
-  - Development and implementation of engagement plans
-  - Interviews, surveys, and workshops
-  - Analysis and evaluation of engagement activities
+## SERVICE PACKAGE 1: UNDERSTANDING & ENGAGING STAKEHOLDERS
+For organisations needing to build trust, gather insight, and support inclusive decision-making through effective stakeholder engagement and consultation.
 
-### Natural Resource Governance + Policy Advice
-- Description: Specialising in distilling expert knowledge and diverse data to guide best practices in natural resource governance.
-- Services:
-  - Comprehensive knowledge reviews
-  - Qualitative data collection and analysis
-  - Policy development and advice
-  - Governance framework development
+### Stakeholder Engagement & Consultation
 
-### Communication + Knowledge Broker
-- Description: Expert in translating complex environmental and social science research into actionable insights.
-- Services:
-  - Science communication
-  - Knowledge translation
-  - Research synthesis
-  - Stakeholder information sharing
+#### What I Offer
+- Tailored ngagement strategy development
+- Stakeholder analysis and mapping
+- Design and delivery of engagement activities (e.g. surveys, interviews, workshops, focus groups)
+- Communication and outreach planning
+- Synthesis and reporting of findings
 
-## Areas of Expertise Section
+#### How It Works
+- Stakeholder identification and analysis
+- Co-design of engagement methods
+- Strategy development
+- Implementation planning
+- Implementation, data analysis and reporting
 
-### Commercial Fisheries / Seafood
-- Description: Expertise in understanding fisher perspectives, financial considerations, and regulatory mechanisms in commercial fisheries.
-- Projects:
-  - Tasmanian Seafood Industry Assessment
-  - Sustainable Fishing Practices Study
-  - Fisher Engagement Program
-  - Industry Policy Review
+#### The Result
+- A targeted and actionable engagement strategy
+- Effective implementation of inclusive engagement activities
+- Well-defined implementation and communication pathways
+- Evidence-based insights to support decision-making
+- Evaluation framework for continuous improvement
 
-### Recreational Fisheries
-- Description: Specialized in feasibility assessments and stakeholder consultation for recreational fishing initiatives.
-- Projects:
-  - Community Fishing Program
-  - Recreational Fishing Policy Framework
-  - Stakeholder Workshop Series
-  - Impact Assessment Study
+## SERVICE PACKAGE 2: KNOWLEDGE & COMMUNICATION
+For organisations needing to effectively communicate complex environmental information and knowledge to diverse audiences.
 
-### Integrated Marine Estate + Protected Area Management
-- Description: Experience in marine park management, including Indigenous engagement and science program delivery.
-- Projects:
-  - Marine Protected Areas Strategy
-  - Marine Science Integration
-  - Indigenous Engagement Framework
-  - Conservation Planning Initiative
+### Knowledge Translation & Communication Services
 
-### Climate Change + Changing Oceans
-- Description: Expertise in climate change communication and public engagement in marine environments.
-- Projects:
-  - Ocean Climate Impact Study
-  - Climate Adaptation Workshops
-  - Community Resilience Program
-  - Marine Climate Research Translation
+#### What I Offer
+- Translation of science and policy information
+- Development of accessible communication materials for diverse audiences
+- Creation of stakeholder information packages and briefing tools
+- Science communication strategy development
+- Targeted communications—incl. websites, infographics and digital tools—that inform, engage, and collect feedback
 
-## Call to Action Section
-- Title: Ready to Collaborate?
-- Description: Let's work together to create lasting environmental change through effective stakeholder engagement and evidence-based decision making.
-- Button Text: Get in Touch 
+#### How It Works
+- Understand your audience and communication goals
+- Identify key messages and content needs
+- Translating and structuring content effectively
+- Developing appropriate communication materials and tools
+- Reviewing and refining for impact and clarity
+
+#### The Result
+- Clear, accessible and audience specific communication materials and tools
+- Engaging platforms that inform stakeholders and invite meaningful input
+- Stronger alignment between science, policy, and community awareness
+- Effective knowledge sharing strategies
+- Improved stakeholder understanding
+
+## SERVICE PACKAGE 3: GOVERNANCE & POLICY
+For organisations aiming to strengthen governance structures and shape effective, evidence-informed policy.
+
+### Governance Assessment & Recommendations
+
+#### What I Offer
+- Review and analysis of governance structures
+- Identification of gaps, barriers, and strengths
+- Benchmarking against best practices
+- Targeted recommendations for improvement
+
+#### How It Works
+- Review of documents, roles, and relationships
+- Stakeholder consultation and analysis
+- Assessment using governance frameworks
+- Development of practical recommendations
+
+#### The Result
+- Detailed governance assessment report
+- Actionable improvement pathways
+- Implementation roadmap
+- More transparent and effective governance
+
+### Policy Brief Development
+
+#### What I Offer
+- Concise, evidence-based briefs on priority issues
+- Evidence-based and strategic policy recommendations
+- Clear analysis of policy options
+- Practical implementation considerations
+
+#### How It Works
+- Research and synthesis of relevant evidence
+- Analysis of policy options and reccomendations
+- Drafting of concise and tailored policy brief
+- Finalisation and review for policy relevance
+
+#### The Result
+- Clear, evidence-based policy brief
+- Clear communication of policy options
+- Actionable policy recommendations
+- Strategic support for timely decisions
+- Implementation guidance
+
+## SERVICE PACKAGE 4: MANAGEMENT & PLANNING
+For organisations aiming to review current management plan effectiveness and design future-focused strategic plans.
+
+### Management Audits & Evaluations
+
+#### What I Offer
+- Assessment of current strategies and outcomes
+- Identification of improvement opportunities
+- Strategic recommendations for enhancement
+
+#### How It Works
+- Review of existing plans, activities, and data
+- Stakeholder consultation
+- Identification of gaps and opportunities
+- Development of improvement recommendations
+
+#### The Result
+- Comprehensive audit report
+- Clear improvement recommendations and actions
+- Implementation roadmap
+- EImproved management efficiency and outcomes
+
+### Strategic Planning
+
+#### What I Offer
+- Development of strategic plans 
+- Clarification of vision, goals, and objectives
+- Goal and objective setting
+- Implementation planning
+
+#### How It Works
+- Stakeholder engagement and issue analysis
+- Strategy co-development and review
+- Goal setting and performance indicators
+- Alignment with environmental and stakeholder priorities
+- Planning for delivery, monitoring, and adaptation
+
+#### The Result
+- A fit-for-purpose strategic plan
+- Clear vision and measurable objectives
+- Implementation and monitoring framework
+- Long-term direction for impactful outcomes
+
+## CLIENT TESTIMONIALS
+
+### Testimonial 1
+"Coco's stakeholder engagement strategy transformed how we interact with our community. Her approach was thorough, inclusive, and delivered results."
+— Sarah Johnson, Conservation Manager
+
+### Testimonial 2
+"The governance assessment provided invaluable insights into our organizational structure. Coco's recommendations were practical and immediately actionable."
+— Michael Chen, NGO Director
+
+### Testimonial 3
+"Coco's ability to translate complex environmental science into accessible materials helped us communicate effectively with diverse stakeholders."
+— Dr. Emily Rodriguez, Research Institute
+
+## CALL TO ACTION
+Ready to Collaborate?
+Let's work together to create lasting impact through effective evaluation, engagement and evidence-based decision making. 
