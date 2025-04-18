@@ -53,6 +53,30 @@
 3. Impact Assessment
    - Text: Monitoring and evaluation frameworks to track outcomes
 
+## SERVICES SECTION
+- Heading: Services I Offer
+- Heading Style: Underline
+- Statement: Based on my research and engagement approach, I provide specialised services to help organisations navigate complex environmental and natural resource challenges. Each service is designed to deliver clear, actionable outcomes that support effective decision-making and governance.
+
+### Service Cards
+1. Stakeholder Engagement & Consultation
+   - Text: Design and implement effective stakeholder engagement processes that ensure diverse perspectives are heard and incorporated into decision-making.
+
+2. Knowledge Translation & Communication Services
+   - Text: Transform complex research and technical information into clear, accessible content that resonates with your target audience.
+
+3. Governance Assessment & Recommendations
+   - Text: Evaluate existing governance structures and provide evidence-based recommendations for improvement.
+
+4. Management Plan Development & Review
+   - Text: Conduct comprehensive audits of management systems and provide actionable insights for improvement.
+
+5. Strategic Planning
+   - Text: Develop comprehensive strategic plans that align with your organisation's goals and values.
+
+6. Policy Brief Development
+   - Text: Create clear, concise policy briefs that effectively communicate key findings and recommendations.
+
 ## BACKGROUND SECTION
 - Heading: Background
 - Heading Style: Underline
