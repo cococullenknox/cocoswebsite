@@ -821,49 +821,110 @@ h1, h2, h3, .navbar-brand {
 /* Services Page Styles */
 .services-section {
     padding: 6rem 0;
-    background-color: var(--sage);
+    background-color: var(--white);
+    position: relative;
+    overflow: hidden;
+}
+
+.services-intro {
+    max-width: 800px;
+    margin: 0 auto 3rem;
+}
+
+.services-intro .lead {
+    font-size: 1.25rem;
+    line-height: 1.8;
+    color: var(--gray);
 }
 
 .service-card {
-    background: #FFFFFF;
+    background-color: var(--beige);
     padding: 2rem;
-    margin-bottom: 2rem;
-    border: 1px solid rgba(0, 0, 0, 0.1);
     border-radius: 12px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: all 0.3s ease;
     height: 100%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
 }
 
 .service-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(183, 65, 14, 0.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .service-card h3 {
+    font-size: 1.25rem;
+    margin: 1rem 0;
     color: var(--accent);
+}
+
+.service-card p {
+    color: var(--gray);
+    margin-bottom: 1.5rem;
+    flex-grow: 1;
+}
+
+.service-icon {
+    width: 60px;
+    height: 60px;
+    background-color: var(--accent);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin-bottom: 1rem;
+    transition: all 0.3s ease;
+}
+
+.service-icon i {
+    color: var(--white);
     font-size: 1.5rem;
-    font-weight: 600;
 }
 
-.service-list {
-    list-style: none;
-    padding: 0;
-    margin: 1.5rem 0 0;
+.service-card:hover .service-icon {
+    transform: scale(1.1);
+    background-color: var(--accent-dark);
 }
 
-.service-list li {
-    position: relative;
-    padding-left: 1.5rem;
-    margin-bottom: 0.5rem;
-    color: var(--medium-gray);
-}
-
-.service-list li:before {
-    content: "•";
-    position: absolute;
-    left: 0;
+.btn-outline-primary {
     color: var(--accent);
+    border: 2px solid var(--accent);
+    background-color: transparent;
+    padding: 0.5rem 1.5rem;
+    border-radius: 30px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.875rem;
+    align-self: flex-start;
+}
+
+.btn-outline-primary:hover {
+    background-color: var(--accent);
+    color: var(--white);
+    transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+    .service-card {
+        padding: 1.5rem;
+    }
+    
+    .service-card h3 {
+        font-size: 1.1rem;
+    }
+    
+    .service-icon {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .service-icon i {
+        font-size: 1.25rem;
+    }
 }
 
 .expertise-section {
