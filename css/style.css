@@ -838,74 +838,75 @@ h1, h2, h3, .navbar-brand {
 }
 
 .service-card {
-    background-color: var(--beige);
+    background-color: var(--accent);
     padding: 2rem;
-    border-radius: 12px;
+    border-radius: 16px;
     transition: all 0.3s ease;
     height: 100%;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     position: relative;
     overflow: hidden;
 }
 
 .service-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 15px 30px rgba(183, 65, 14, 0.25);
 }
 
 .service-card h3 {
-    font-size: 1.25rem;
-    margin: 1rem 0;
-    color: var(--accent);
+    color: var(--beige) !important;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.3;
+    position: relative;
+    z-index: 1;
 }
 
 .service-card p {
-    color: var(--gray);
+    color: var(--white);
     margin-bottom: 1.5rem;
-    flex-grow: 1;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    opacity: 0.95;
 }
 
 .service-icon {
     width: 60px;
     height: 60px;
-    background-color: var(--accent);
+    background-color: var(--white);
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: 1rem;
-    transition: all 0.3s ease;
 }
 
 .service-icon i {
-    color: var(--white);
+    color: var(--accent);
     font-size: 1.5rem;
 }
 
-.service-card:hover .service-icon {
-    transform: scale(1.1);
-    background-color: var(--accent-dark);
-}
-
-.btn-outline-primary {
-    color: var(--accent);
-    border: 2px solid var(--accent);
+.service-card .btn-outline-primary {
+    color: var(--white);
+    border: 2px solid var(--white);
     background-color: transparent;
-    padding: 0.5rem 1.5rem;
-    border-radius: 30px;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
     font-weight: 500;
     transition: all 0.3s ease;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-size: 0.875rem;
-    align-self: flex-start;
+    text-decoration: none;
+    display: inline-block;
 }
 
-.btn-outline-primary:hover {
-    background-color: var(--accent);
-    color: var(--white);
-    transform: translateY(-2px);
+.service-card .btn-outline-primary:hover {
+    background-color: var(--white);
+    color: var(--accent);
+    border-color: var(--white);
 }
 
 @media (max-width: 768px) {
@@ -1031,7 +1032,6 @@ h1, h2, h3, .navbar-brand {
 }
 
 /* Accent colors for headings and elements */
-.service-card h3,
 .expertise-card h3,
 .approach-card h3 {
     color: var(--accent);
