@@ -22,7 +22,7 @@
 
 ## EDUCATION SECTION
 - Heading: Education
-- Text: [Your educational background]
+- Text:
 
 ## EXPERIENCE SECTION
 - Heading: Professional Experience
