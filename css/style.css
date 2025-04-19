@@ -2223,4 +2223,68 @@ textarea.form-control {
     .process-header {
         margin-bottom: 1.5rem;
     }
+}
+
+/* Experience Section Styles */
+.category-tag {
+    display: inline-block;
+    background-color: #FFF1EC;
+    color: #C84E00;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.case-study-block {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.meta-info {
+    color: #666;
+    font-size: 14px;
+}
+
+.meta-info span {
+    margin-right: 20px;
+}
+
+.meta-info i {
+    margin-right: 8px;
+    color: #C84E00;
+}
+
+.case-study-block h3 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.case-study-block h4 {
+    font-size: 18px;
+    color: #C84E00;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.case-study-block .overview,
+.case-study-block .methods,
+.case-study-block .outputs {
+    margin-bottom: 30px;
+}
+
+.case-study-block ul {
+    padding-left: 20px;
+}
+
+.case-study-block ul li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+    color: #555;
 } 
