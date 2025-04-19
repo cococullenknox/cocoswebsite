@@ -2,19 +2,18 @@
 
 ## PAGE HEADER
 - Subtitle: ABOUT
-- Heading: MY JOURNEY
+- Heading: Dr Coco Cullen-Knox
 
 ## BIOGRAPHY SECTION
-- Heading: My Journey
-- Text: I'm an environmental sociologist with over a decade of experience working across government, research, industry, NGOs, and consultancies. My work has always sat at the intersection of people and the environment—managing natural resources, shaping policy, guiding governance, and supporting decision-making that's both evidence-based and grounded in real-world context.
+- Heading: Background
+- Text: I'm an environmental sociologist with over a decade of experience working across government, research, industry, NGOs, and consultancies. My work sits at the intersection of people and the environment—managing natural resources, shaping policy, guiding governance, and supporting decision-making that's both evidence-based and grounded in real-world context.
 
-With a background in both environmental and social sciences, I bring a big-picture understanding of how people and ecosystems interact. I'm especially drawn to the complex governance challenges around common-pool natural resources—where collaboration, transparency, and adaptive thinking really matter.
+With a background in both environmental and social sciences, I bring a big-picture understanding of how people and ecosystems interact. I’m especially drawn to the complex governance challenges around common-pool natural resources—where collaboration, transparency, and adaptive thinking really matter.
 
-Over the years, I've contributed to projects ranging from marine management and protected area governance to science communication, coastal development, and seafood sustainability. I'm a certified IAP2 practitioner and hold a PhD in environmental conflict communication, which underpins my approach to stakeholder engagement and qualitative research.
+Over the years, I've contributed to projects ranging from integrated marine management, protected area governance, science communication, terrestrial and marine development and infrastrucutre, and seafood governance. I'm a certified IAP2 practitioner and hold a PhD in environmental conflict communication, which underpins my approach to stakeholder engagement and qualitative research.
 
 What drives me is helping to bridge diverse perspectives—whether through surveys, interviews, or translating complex information into clear insights. I specialise in designing and delivering engagement and review processes that inform practical, inclusive, and context-relevant decisions.
 
-With expertise in marine conservation and environmental governance, I work to facilitate meaningful dialogue between researchers, policymakers, and communities to drive sustainable environmental solutions.
 
 ## SKILLS SECTION
 - Heading: Core Skills
@@ -22,27 +21,27 @@ With expertise in marine conservation and environmental governance, I work to fa
 ### Skill Cards
 1. Research & Analysis
    - Icon: chart-bar
-   - Text: Qualitative data collection, analysis and reporting
+   - Text: Qualitative data collection, analysis and reporting to inform evidence-based decision making.
 
 2. Engagement
    - Icon: users
-   - Text: Stakeholder engagement and consultation
+   - Text: Stakeholder engagement and consultation using best-practice approaches to facilitate meaningful decicion-making.
 
 3. Governance
    - Icon: balance-scale
-   - Text: Environmental governance and policy advice
+   - Text: Environmental governance and policy advice grounded in practical experience and research.
 
 4. Communication
    - Icon: comments
-   - Text: Science communication and knowledge translation
+   - Text: Communication and knowledge translation that bridges complex information with practical insights.
 
 5. Management
    - Icon: tasks
-   - Text: Project management and team leadership
+   - Text: Project management and team leadership focused on delivering successful outcomes through collaboration.
 
 6. Marine Expertise
    - Icon: water
-   - Text: Marine conservation and governance
+   - Text: Marine conservation and governance expertise built on extensive research and practical experience.
 
 ## EDUCATION SECTION
 - Heading: Education
@@ -73,18 +72,17 @@ With expertise in marine conservation and environmental governance, I work to fa
 - Heading: Professional Experience
 
 ### Principle Consultant and Researcher / Founder
-- Category: Independent Consultant
 - Date: 2018 - Current
-- Client: Independent Consultant
+- Client: Independent Consultant and Researcher
 - Overview: Independent research and consulting services in stakeholder engagement and consultation, governance and policy reviews and advice and qualitative data collection, analysis and reporting.
 - Key Projects:
-  - ThinkBank, Tasmanian Leaders (2018-2019) - Analysis of interviews and literature and reporting to support Tasmanian agribusiness and small business policy development.
+  - ThinkBank, Tasmanian Leaders (2018-2019) - Analysis of interviews and literature and reporting to support Tasmanian agribusiness and small business policy development.  Reports can be founds- https://www.tasmanianleaders.org.au/wp-content/uploads/2019/12/Ideas-from-Thinkbank-
+2019-Our-Place-in-the-Sun.pdf - https://www.tasmanianleaders.org.au/wp-content/uploads/2019/05/Thinkbank-2018-SmallBusiness_FinalReport.pdf
   - Seafood Futures (2024) - Synthesis of sector provided literature to develop Marine User Profiles and Regional What We Heard Reports.
-  - The Nature Conservancy and NRM South (2024 - 2025) – White paper prepared for DCCEEW, bringing together expert input on Giant Kelp Forest conservation.
+  - The Nature Conservancy and NRM South (2024 - 2025) – Giant Kelp Marine Forest Conservation and Recovery White Paper to support updated conservation advice under the EPBC Act. Followed by a key stakeholder workshop and pre-workshop survey delivered with NRM South for DCCEEW.
   - World Wide Fund for Nature (2018-2019) - Co-delivered the Seafood and Fisheries Emerging Technologies Conference held in Bangkok, Thailand attended by 250 participants from around the world. View the summary report here https://docs.wixstatic.com/ugd/a17859_8c02db62167d47d9a1555d4762720ecb.pdf
-
+ 
 ### Researcher
-- Category: Research, Stakeholder Engagement
 - Date: April 2015 - Current
 - Client: University of Tasmania
 - Overview: Research and project-based activities for The Institute for Social Change, Institute for Marine and Antarctic Studies and Centre for Marine Socioecology.
@@ -95,7 +93,6 @@ With expertise in marine conservation and environmental governance, I work to fa
   - My PhD examined how environmental risks of common pool natural resources—particularly in salmon aquaculture—are negotiated through media, where science, community concerns, industry interests, and policy intersect. It explored the role of media, politics, and power in shaping environmental conflict, knowledge, and governance across local and global scales.
 
 ### Environmental Scientist and Stakeholder Engagement Specialist
-- Category: Environmental Science, Stakeholder Engagement
 - Date: December 2014 – Current
 - Client: Marine Solutions Tasmania
 - Overview: As part of the highly productive and supportive team at Marine Solutions, I provide expertise in marine science, project management and stakeholder engagement.
@@ -104,7 +101,6 @@ With expertise in marine conservation and environmental governance, I work to fa
   - Development and implementation of stakeholder engagement plans for government and industry clients.
 
 ### Senior Project Officer - North Network
-- Category: Government
 - Date: April 2021 – November 2022
 - Client: Marine and Islands Parks Branch, Parks Australia
 - Overview: I supported a small team in the implementation of the North Marine Parks Network Management Plan 2018 by undertaking the following activities:
@@ -115,7 +111,6 @@ With expertise in marine conservation and environmental governance, I work to fa
   - Coordinate the review of the North Foundation Implementation Plan and the development of the North Consolidation Implementation Plan.
 
 ### Environmental Scientist
-- Category: Environmental Consulting
 - Date: 2011 to 2013
 - Client: Various environmental consultancies and research organisations
 - Overview: In my early career, I worked for consultancies and research organisations, ranging from those that operate on the global scale (including developing and implementing a research project on a remote island in Fiji) to smaller family-owned and operated consultancies.

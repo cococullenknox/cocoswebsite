@@ -3,12 +3,19 @@
 ## HERO SECTION
 - Subtitle: Environmental Sociologist
 - Heading: Bridging Science & Society
-- Button: View Projects
+- Button: View Services
+
+## BACKGROUND SECTION
+- Heading: Background
+- Heading Style: Underline
+- Text: I'm an environmental sociologist with over a decade of experience working across government, research, NGOs, and industry. With interdisciplinary expertise in both environmental and social sciences, I specialise in tackling complex socio-ecological challenges — bringing people, policy, and science together to support evidence-based decision-making.
+
+Whether it's developing governance advice, translating research into action, or designing engagement strategies, I help organisations make sense of complexity and move forward with clarity.
 
 ## APPROACH SECTION
 - Heading: My Approach
 - Heading Style: Underline
-- Statement: Effective environmental and natural resource governance depends on meaningful dialogue, inclusive decision-making, and collaboration across diverse groups. I facilitate decision-making processes that are transparent, accountable, reflexive, and adaptive. Combining environmental and social science expertise, I support clients to navigate complex socio-ecological challenges by turning complex insights into clear, actionable pathways for governance and policy.
+- Statement: Effective natural resource management depends on meaningful dialogue, inclusive decision-making, and collaboration across diverse groups. I design and facilitate review and engagement processes that are transparent, accountable, reflexive, and adaptive. Combining environmental and social science expertise, I support clients to navigate complex socio-ecological challenges by turning insights into clear, actionable pathways.
 
 ### Approach Cards
 1. Research
@@ -18,40 +25,40 @@
    - Text: Facilitating meaningful stakeholder engagement and consultation processes to ensure diverse perspectives are considered in decision-making.
 
 3. Impact
-   - Text: Developing practical solutions grounded in evidence, shaped by stakeholders, and aligned with policy needs to deliver actionable recommendations for effective, future-focused decision-making.
+   - Text: Developing practical solutions grounded in evidence, shaped by stakeholders, and aligned with policy needs to deliver actionable outputs and recommendations for effective, future-focused decision-making.
 
 ### Process Activities
 - Heading: My Process in Action
 
 #### Research Activities
 1. Literature Review
-   - Text: Comprehensive analysis of existing research, policies, and frameworks
+   - Text: Comprehensive analysis of existing information and knowledge
 
-2. Data Analysis
-   - Text: Quantitative and qualitative analysis of environmental and social data
+2. Data Collection & Analysis
+   - Text: Qualitiative and Quantitative data analysis of review and engagement results
 
 3. Context Mapping
    - Text: Mapping of governance structures, stakeholders, and knowledge systems
 
 #### Engage Activities
 1. Stakeholder Engagement
-   - Text: Design and implement workshops, interviews and surveys to gather diverse perspectives
+   - Text: Design and implement workshops, interviews and surveys to gather insights
 
 2. Collaborative Planning
-   - Text: Co-design of processes and solutions with stakeholders from various sectors
+   - Text: Co-design of inclusive processes and practical solutions
 
 3. Communicate Purpose
-   - Text: Targeted communications (inc. websites & digital tools) to inform, engage, and collect feedback.
+   - Text: Targeted communications (websites/apps/digital tools) to inform, engage, and collect insights.
 
 #### Impact Activities
-1. Policy Recommendations
-   - Text: Evidence-based recommendations aligned with policy frameworks
+1. Strategic Recommendations
+   - Text: Evidence-informed advice tailored to support decision-making across sectors
 
 2. Implementation Plans
-   - Text: Practical action plans with clear timelines and responsibilities
+   - Text: Practical action plans with clear roles, timelines, and milestones
 
-3. Impact Assessment
-   - Text: Monitoring and evaluation frameworks to track outcomes
+3. Outcome Evaluation
+   - Text: Fit-for-purpose monitoring and evaluation frameworks to guide adaptive management
 
 ## SERVICES SECTION
 - Heading: Services I Offer
@@ -66,63 +73,20 @@
    - Text: Transform complex research and technical information into clear, accessible content that resonates with your target audience.
 
 3. Governance Assessment & Recommendations
-   - Text: Evaluate existing governance structures and provide evidence-based recommendations for improvement.
+   - Text: Evaluate existing governance approaches and provide evidence-based recommendations for improvement.
 
 4. Management Plan Development & Review
-   - Text: Conduct comprehensive audits of management systems and provide actionable insights for improvement.
+   - Text: Conduct comprehensive assessments of management systems and develop actionable insights for improvement.
 
 5. Strategic Planning
-   - Text: Develop comprehensive strategic plans that align with your organisation's goals and values.
+   - Text: Develop strategic plans that align with stakeholder priorities, environmental goals, and decision-making needs. 
 
 6. Policy Brief Development
    - Text: Create clear, concise policy briefs that effectively communicate key findings and recommendations.
 
-## BACKGROUND SECTION
-- Heading: Background
-- Heading Style: Underline
-- Text: Coco brings over a decade of experience in environmental governance, stakeholder engagement, and applied research, working across all levels of government, industry, NGOs, and academia. With a unique blend of environmental and social science expertise, she specialises in designing and delivering robust engagement and review processes that generate evidence-based advice and support practical, stakeholder-informed policy and governance decisions.
+## Who I've Worked With
 
-### Areas of Expertise
-- Environmental Governance and Policy Advice
-- Stakeholder Engagement and Consultation
-- Knowledge Brokering
-- Applied Research
-
-## WORK SECTION
-- Heading: Selected Work
-- Heading Style: Underline
-
-### Project Cards
-1. Marine Conservation
-   - Category: Environmental Project
-   - Text: Stakeholder engagement strategy
-
-2. Policy Development
-   - Category: Policy Project
-   - Text: Environmental governance framework
-
-3. Research Impact
-   - Category: Research Project
-   - Text: Knowledge translation program
-
-## TESTIMONIALS SECTION
-- Heading: Voices of Impact
-- Heading Style: Underline
-
-### Testimonial 1
-- Text: "Coco's expertise in environmental sociology has been invaluable to our marine conservation project. Her ability to bridge scientific research with community engagement transformed our approach."
-- Author: Dr. Sarah Johnson
-- Position: Marine Conservation Institute
-
-### Testimonial 2
-- Text: "Working with Coco on our fisheries policy development was a game-changer. Her sociological insights helped us create more effective and inclusive policies that gained community support."
-- Author: Michael Chen
-- Position: Department of Fisheries
-
-### Testimonial 3
-- Text: "Coco's knowledge translation strategies helped us communicate complex environmental data to stakeholders in a way that was accessible and actionable. Highly recommended!"
-- Author: Emma Rodriguez
-- Position: Environmental Research Center
+I have had the privilege of working with a diverse range of organisations across government, industry, and non-profit sectors. These collaborations have allowed me to apply my expertise in environmental sociology, stakeholder engagement, and marine governance to address complex environmental challenges.
 
 ## CONTACT SECTION
 - Heading: Let's Work Together
@@ -132,4 +96,3 @@
 
 ## FOOTER
 - Copyright: © 2025 Coco Cullen-Knox
-- Social: LinkedIn 
