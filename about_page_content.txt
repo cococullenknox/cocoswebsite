@@ -1,38 +1,132 @@
 # ABOUT PAGE CONTENT
 
-## HERO SECTION
-- Heading: About Me
-- Subtitle: Environmental Sociologist & Policy Advisor
+## PAGE HEADER
+- Subtitle: ABOUT
+- Heading: MY JOURNEY
 
 ## BIOGRAPHY SECTION
 - Heading: My Journey
-- Text: [Your detailed biography will go here]
+- Text: As an Environmental Sociologist, I focus on bridging the gap between scientific research and practical implementation through innovative stakeholder engagement and knowledge translation strategies.
 
-## EXPERTISE SECTION
-- Heading: Areas of Expertise
-- Text: [Description of your expertise areas]
+With expertise in marine conservation and environmental governance, I work to facilitate meaningful dialogue between researchers, policymakers, and communities to drive sustainable environmental solutions.
 
-### Expertise List
-- Environmental Governance
-- Stakeholder Engagement
-- Knowledge Translation
-- Marine Conservation
-- Policy Development
-- Research Impact Assessment
+## SKILLS SECTION
+- Heading: Core Skills
+
+### Skill Cards
+1. Research & Analysis
+   - Icon: chart-bar
+   - Text: Qualitative data collection, analysis and reporting
+
+2. Engagement
+   - Icon: users
+   - Text: Stakeholder engagement and consultation
+
+3. Governance
+   - Icon: balance-scale
+   - Text: Environmental governance and policy advice
+
+4. Communication
+   - Icon: comments
+   - Text: Science communication and knowledge translation
+
+5. Management
+   - Icon: tasks
+   - Text: Project management and team leadership
+
+6. Marine Expertise
+   - Icon: water
+   - Text: Marine conservation and governance
 
 ## EDUCATION SECTION
 - Heading: Education
-- Text:
+
+### Education Timeline
+1. PhD (2021)
+   - Institution: Centre for Marine Sociology
+   - Thesis: Media and environmental conflict over salmon aquaculture: Investigating the local and the transnational
+   - Note: Accepted without changes
+
+2. Honours in Marine Governance (2014)
+   - Institution: Institute for Marine and Antarctic Studies
+   - Thesis: The role of social license in the governance of common pool marine resources
+   - Note: First class
+
+3. Bachelor of Applied Science (2011)
+   - Institution: The University of Queensland
+   - Majors: Integrated Resource Management and Conservation Management
+
+4. Certificate in Engagement (2022)
+   - Institution: International Association for Public Participation
+
+5. Coxswain 2NC (2018)
+
+6. Scientific and Master Diver (2015)
 
 ## EXPERIENCE SECTION
+- Category Tag: RESEARCH & ANALYSIS
 - Heading: Professional Experience
-- Text: [Your work experience]
+
+### Sole Trader
+- Category: Independent Consultant
+- Date: 2018 - Current
+- Client: Independent Consultant
+- Overview: Independent research and consulting services in stakeholder engagement and consultation, governance and policy reviews and advice and qualitative data collection, analysis and reporting.
+- Key Projects:
+  - ThinkBank, Tasmanian Leaders (2018-2019) - Analysis of interviews and literature and reporting to support Tasmanian agribusiness and small business policy development.
+  - Seafood Futures (2024) - Synthesis of sector provided literature to develop Marine User Profiles and Regional What We Heard Reports.
+  - The Nature Conservancy and NRM South (2024 - 2025) – White paper prepared for DCCEEW, bringing together expert input on Giant Kelp Forest conservation.
+
+### Researcher
+- Category: Research
+- Date: April 2015 - Current
+- Client: University of Tasmania
+- Overview: Research and project-based activities for The Institute for Social Change, Institute for Marine and Antarctic Studies and Centre for Marine Socioecology.
+- Key Achievements:
+  - Policy and governance advice for marine protected matters, integrated marine management, protected area management and social dimensions of managing the marine estate.
+  - Lead and co-author on peer-reviewed academic papers in relation to marine governance, social license, science communication, and integrated marine management.
+  - Qualitative data collection, analysis and reporting that has informed science communication, governance and decision-making in climate change, fisheries management, marine estate management and environmental governance.
+
+### Research Assistant
+- Category: Research
+- Date: 2016 - 2018
+- Client: University of Tasmania
+- Overview: Research assistant for the Institute for Marine and Antarctic Studies and Centre for Marine Socioecology.
+- Key Projects:
+  - Marine Estate Management Act Review - Stakeholder consultation and analysis
+  - Marine Estate Management Strategy - Social values assessment
+  - Marine Estate Management Strategy - Economic values assessment
+
+### Earlier Research Assistant Roles
+- Category: Research
+- Date: 2013 - 2015
+- Client: University of Tasmania
+- Overview: Research assistant for the Institute for Marine and Antarctic Studies.
+- Key Projects:
+  - Marine Estate Management Act Review - Stakeholder consultation and analysis
+  - Marine Estate Management Strategy - Social values assessment
 
 ## VALUES SECTION
 - Heading: My Values
-- Text: [Your core values and principles]
+
+### Value Cards
+1. Collaboration
+   - Icon: handshake
+   - Text: Working together to achieve sustainable outcomes
+
+2. Innovation
+   - Icon: lightbulb
+   - Text: Finding creative solutions to complex challenges
+
+3. Integrity
+   - Icon: balance-scale
+   - Text: Maintaining high ethical standards in all work
 
 ## CONTACT SECTION
 - Heading: Let's Connect
 - Text: Interested in working together?
-- Button: Get in Touch 
+- Button: Get in Touch
+
+## FOOTER
+- Copyright: © 2024 Coco Cullen-Knox
+- Social: LinkedIn 
