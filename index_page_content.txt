@@ -38,7 +38,7 @@ Whether it's developing governance advice, translating research into action, or 
    - Text: Qualitiative and Quantitative data analysis of review and engagement results
 
 3. Context Mapping
-   - Text: Mapping of governance structures, stakeholders, and knowledge systems
+   - Text: Mapping of stakeholders, themes and knowledge systems
 
 #### Engage Activities
 1. Stakeholder Engagement
@@ -67,22 +67,22 @@ Whether it's developing governance advice, translating research into action, or 
 
 ### Service Cards
 1. Stakeholder Engagement & Consultation
-   - Text: Design and implement effective stakeholder engagement processes that ensure diverse perspectives are heard and incorporated into decision-making.
+   - Text: Design and deliver effective stakeholder engagement processes that ensure relevant and diverse perspectives are heard and incorporated into decision-making.
 
-2. Knowledge Translation & Communication Services
-   - Text: Transform complex research and technical information into clear, accessible content that resonates with your target audience.
+2. Knowledge Translation & Communication
+   - Text: Support better conversations and decisions by turning complex ideas into clear, engaging content—paired with digital tools (websites/apps) that make it easy for people to connect, respond, and get involved.
 
 3. Governance Assessment & Recommendations
    - Text: Evaluate existing governance approaches and provide evidence-based recommendations for improvement.
 
 4. Management Plan Development & Review
-   - Text: Conduct comprehensive assessments of management systems and develop actionable insights for improvement.
+   - Text: Conduct comprehensive assessments of management approaches and develop actionable insights for improvement.
 
 5. Strategic Planning
-   - Text: Develop strategic plans that align with stakeholder priorities, environmental goals, and decision-making needs. 
+   - Text: Develop strategic plans that align with stakeholder priorities and decision-making needs. 
 
-6. Policy Brief Development
-   - Text: Create clear, concise policy briefs that effectively communicate key findings and recommendations.
+6. Policy Analysis and Advice
+   - Text: Create clear, concise policy documents (white papers & policy briefs) that effectively communicate key findings and recommendations.
 
 ## Who I've Worked With
 
