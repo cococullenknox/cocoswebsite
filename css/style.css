@@ -324,9 +324,9 @@ h1, h2, h3, .navbar-brand {
 }
 
 .project-info p {
-    color: var(--gray);
+    color: var(--black);
     margin-bottom: 1.5rem;
-    font-size: 1.1rem;
+    font-size: 0.875rem;
     line-height: 1.6;
 }
 
@@ -494,7 +494,7 @@ h1, h2, h3, .navbar-brand {
 
 /* Section Padding */
 .section-padding {
-    padding: 6rem 0;
+    padding: 4rem 0;
 }
 
 /* Responsive adjustments */
@@ -1102,20 +1102,24 @@ h1, h2, h3, .navbar-brand {
     }
 }
 
-/* Case Study Page Styles */
-.case-study {
-    background-color: var(--white);
-    border-radius: 16px;
-    padding: 2.5rem;
-    margin-bottom: 3rem;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 1px solid rgba(0, 0, 0, 0.08);
+/* Project Section */
+.project-section {
     position: relative;
-    overflow: hidden;
+    padding: 4rem 0;
 }
 
-.case-study::before {
+.project {
+    background: var(--white);
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    position: relative;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.project::before {
     content: '';
     position: absolute;
     top: 0;
@@ -1127,22 +1131,21 @@ h1, h2, h3, .navbar-brand {
     transition: all 0.3s ease;
 }
 
-.case-study:hover {
+.project:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
-.case-study:hover::before {
+.project:hover::before {
     width: 6px;
 }
 
-.case-study-header {
-    margin-bottom: 2rem;
-    position: relative;
+.project-header {
+    margin-bottom: 1.5rem;
 }
 
-.case-study-header .category {
-    font-size: 0.85rem;
+.project-header .category {
+    font-size: 0.875rem;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: var(--accent);
@@ -1154,7 +1157,7 @@ h1, h2, h3, .navbar-brand {
     border-radius: 100px;
 }
 
-.case-study-header h3 {
+.project-header h3 {
     color: var(--black);
     font-size: 1.75rem;
     margin-bottom: 1rem;
@@ -1162,91 +1165,83 @@ h1, h2, h3, .navbar-brand {
     line-height: 1.2;
 }
 
-.case-study-meta {
+.project-meta {
     display: flex;
-    gap: 1.5rem;
+    gap: 1rem;
     margin-top: 1rem;
-    font-size: 0.9rem;
-    color: var(--gray);
 }
 
-.case-study-meta .date,
-.case-study-meta .client {
-    display: flex;
-    align-items: center;
+.project-meta .date,
+.project-meta .client {
+    font-size: 0.875rem;
+    color: var(--black);
 }
 
-.case-study-meta .date::before {
+.project-meta .date::before {
     content: '📅';
     margin-right: 0.5rem;
 }
 
-.case-study-meta .client::before {
+.project-meta .client::before {
     content: '👥';
     margin-right: 0.5rem;
 }
 
-.case-study-content {
-    position: relative;
+.project-content {
+    padding: 0.5rem 0;
 }
 
-.case-study-overview {
-    margin-bottom: 2rem;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-}
-
-.case-study-overview h4 {
-    font-size: 1.25rem;
-    margin-bottom: 1rem;
-    color: var(--accent);
-    font-weight: 600;
-}
-
-.case-study-overview p {
-    font-size: 1.1rem;
-    line-height: 1.6;
-    color: var(--gray);
-}
-
-.case-study-details {
-    margin-bottom: 2rem;
-}
-
-.case-study-details h4 {
-    font-size: 1.25rem;
-    margin: 1.5rem 0 1rem;
-    color: var(--accent);
-    font-weight: 600;
-}
-
-.case-study-details h4:first-child {
-    margin-top: 0;
-}
-
-.case-study-details p {
-    font-size: 1.1rem;
-    line-height: 1.6;
-    color: var(--gray);
+.project-overview {
     margin-bottom: 1.5rem;
 }
 
-.case-study-details ul {
-    list-style: none;
-    padding: 0;
-    margin: 0 0 1.5rem;
-}
-
-.case-study-details li {
-    position: relative;
-    padding-left: 1.5rem;
+.project-overview h4 {
+    font-size: 0.875rem;
     margin-bottom: 0.75rem;
-    font-size: 1.1rem;
-    line-height: 1.6;
-    color: var(--gray);
+    color: var(--accent);
+    font-weight: 600;
 }
 
-.case-study-details li::before {
+.project-overview p {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--black);
+}
+
+.project-details {
+    margin-bottom: 1.5rem;
+}
+
+.project-details h4 {
+    color: var(--accent);
+    font-size: 0.875rem;
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+}
+
+.project-details p {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--black);
+    margin-bottom: 0.75rem;
+}
+
+.project-details ul {
+    list-style: none;
+    padding-left: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.project-details li {
+    margin-bottom: 0.5rem;
+    position: relative;
+    padding-left: 1rem;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--black);
+}
+
+.project-details li::before {
     content: "•";
     position: absolute;
     left: 0;
@@ -1254,57 +1249,25 @@ h1, h2, h3, .navbar-brand {
     font-weight: bold;
 }
 
-.case-study-tags {
+.project-tags {
+    margin-top: 1rem;
     display: flex;
     flex-wrap: wrap;
-    gap: 0.75rem;
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    gap: 0.5rem;
 }
 
-.case-study-tags .project-tag {
+.project-tags .project-tag {
     background: rgba(183, 65, 14, 0.05);
     color: var(--accent);
     padding: 0.35rem 1rem;
     border-radius: 100px;
-    font-size: 0.9rem;
+    font-size: 0.875rem;
     font-weight: 500;
     transition: all 0.3s ease;
 }
 
-.case-study:hover .case-study-tags .project-tag {
+.project:hover .project-tags .project-tag {
     background: rgba(183, 65, 14, 0.1);
-}
-
-@media (max-width: 768px) {
-    .case-study {
-        padding: 1.5rem;
-    }
-    
-    .case-study-header h3 {
-        font-size: 1.5rem;
-    }
-    
-    .case-study-overview p,
-    .case-study-details p,
-    .case-study-details li {
-        font-size: 1rem;
-    }
-    
-    .case-study-meta {
-        flex-direction: column;
-        gap: 0.5rem;
-    }
-    
-    .case-study-tags {
-        gap: 0.5rem;
-    }
-    
-    .case-study-tags .project-tag {
-        padding: 0.25rem 0.75rem;
-        font-size: 0.85rem;
-    }
 }
 
 /* Contact Page Styles */
@@ -2261,22 +2224,31 @@ textarea.form-control {
 }
 
 .case-study-block h3 {
-    font-size: 28px;
-    color: #333;
-    margin-bottom: 20px;
+    font-size: 1.75rem;
+    color: var(--black);
+    margin-bottom: 1rem;
 }
 
 .case-study-block h4 {
-    font-size: 18px;
-    color: #C84E00;
-    margin-bottom: 15px;
+    font-size: 0.875rem;
+    color: var(--accent);
+    margin-bottom: 0.75rem;
     font-weight: 600;
 }
 
 .case-study-block .overview,
 .case-study-block .methods,
 .case-study-block .outputs {
-    margin-bottom: 30px;
+    margin-bottom: 1.5rem;
+}
+
+.case-study-block .overview p,
+.case-study-block .methods p,
+.case-study-block .outputs p {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--black);
+    margin-bottom: 0.75rem;
 }
 
 .case-study-block ul {
@@ -2284,9 +2256,10 @@ textarea.form-control {
 }
 
 .case-study-block ul li {
-    margin-bottom: 10px;
+    margin-bottom: 0.5rem;
     line-height: 1.6;
-    color: #555;
+    color: var(--black);
+    font-size: 0.875rem;
 }
 
 /* Client Logos Section */
@@ -2370,4 +2343,60 @@ textarea.form-control {
     .clients-logos .row {
         grid-template-columns: 1fr;
     }
+}
+
+.case-study-block p,
+.case-study-block ul,
+.case-study-block ul li,
+.case-study-block ul li ul li {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--black);
+}
+
+.case-study-block h4 {
+    font-size: 0.875rem;
+    color: var(--accent);
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+}
+
+.case-study-block .category {
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: rgba(183, 65, 14, 0.08);
+    border-radius: 100px;
+}
+
+.case-study-meta {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.case-study-meta .date,
+.case-study-meta .client {
+    font-size: 0.875rem;
+    color: var(--black);
+}
+
+.case-study-overview p,
+.case-study-details p {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--black);
+    margin-bottom: 0.75rem;
+}
+
+.case-study-details ul li,
+.case-study-details ul li ul li {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--black);
 } 
