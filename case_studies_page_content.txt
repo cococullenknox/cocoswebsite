@@ -34,7 +34,7 @@
 - Client: Tassal (with Marine Solutions Tasmania)
 - Overview: Understanding community perception of proposed local developments.
 - Methods:
-  - Develop, implement and analyse a survey of local residents
+  - Develop, implement and analyse a survey of 100's of local residents
   - Be the primary contact for public enquiries
 - Outputs: Consultation report
 - Tags: Community Engagement, Stakeholder Analysis, Industry Research
@@ -48,6 +48,28 @@
   - Conference organisation and facilitation
 - Outputs: Conference summary report available at https://docs.wixstatic.com/ugd/a17859_8c02db62167d47d9a1555d4762720ecb.pdf
 - Tags: Knowledge Translation, Conference Facilitation
+
+### PhD Research: Media and Environmental Conflict Over Common Pool Marine Resources
+- Category: Academic Research
+- Date: 2016-2020
+- Client: University of Tasmania, Centre for Marine Sociology
+- Overview: Doctoral research examining how environmental risks of common pool natural resources—particularly in salmon aquaculture and seafood more broadly—are negotiated through media, where science, community concerns, industry interests, and policy intersect. The research explored the role of media, politics, and power in shaping environmental conflict, knowledge, and governance across local and global scales.
+- Methods:
+  - Media content analysis
+  - Stakeholder interviews
+  - Systematic literature review
+  - Direct observation
+- Outputs: 
+  - PhD thesis: "Media and environmental conflict over salmon aquaculture: Investigating the local and the transnational" (see here: pdfs/Media and environmental conflict over salmon aquaculture.pdf)
+  - Peer-reviewed publications:
+      - Cullen-Knox, C., Fleming, A., Lester, L., & Ogier, E. 2019. Publicised scrutiny and mediatised environmental conflict: The case of Tasmanian salmon aquaculture. Marine Policy, 100, 307-315. doi:10.1016/j.marpol.2018.11.040
+      - Cullen-Knox, C, Fleming, A, Ogier, E, Lester. 2021. Perceiving environmental science, risk and industry regulation in the mediatised vicious cycles of the Tasmanian salmon aquaculture industry, Social Epistemology, DOI: 10.1080/02691728.2021.1913661
+      - Cullen-Knox, C., Fleming, A., Lester, L., and Ogier, E. 2020. Tracing Environmental Sustainability Discourses: An Australia-Asia Seafood Case Study. Front. Mar. Sci. 7:176. doi: 10.3389/fmars.2020.00176
+  - Conference presentations
+      - Conference on Communication and Environment, United Kingdon: The mediatised Tasmanian salmon farming controversy
+      - The World Seafood Congress, Iceland: Mediatised politics of salmon aquaculture: Transnational environmental campaigning
+      - International Communication Association Conference, Virtual: The Tragedy of the Discursive Commons: Considering 'Closed' Environmental Communication and Opportunities for 'Opening' - Media, science and the environmental risk of Tasmania's expanding salmon aquaculture industry
+- Tags: Environmental Sociology, Media Analysis, Interviews, Qualitative Research, Seafood
 
 ## Recreational Fisheries Section
 
@@ -63,7 +85,7 @@
   - Literature review
   - Policy review
   - Economic analysis
-- Outputs: Feasibility report and recommendations for locations and approach to installing FADs and Artificial reefs in Tasmanian waters
+- Outputs: Feasibility report and recommendations for locations and approaches for installing FADs and Artificial reefs in Tasmanian waters. Reccommendations were implemented 13 FADs and 2 artificial reefs have been installed in Tasmanian waters. See here (https://fishing.tas.gov.au/recreational-fishing/fishing-tips/fads-and-artificial-reefs) for more information 
 - Tags: Feasibility Assessment, Stakeholder Engagement
 
 ### Science Education for Recreational Game Fishing
@@ -74,7 +96,7 @@
 - Methods:
   - Survey design
   - Survey implementation with recreational fishers
-- Outputs: Survey design
+- Outputs: Survey designed to gather information from recreational fishers
 - Tags: Applied Research, Science Communication, Stakeholder Consultation
 
 ## Marine Estate Management Section
@@ -83,10 +105,14 @@
 - Category: Conservation Strategy
 - Date: 2024/2025
 - Client: The Nature Conservancy and NRM South (with Centre for Marine Socioecology)
-- Overview: A white paper bringing together expert input on Giant Kelp Forest conservation to inform the review of conservation advice under the EPBC Act.
+- Overview: A white paper bringing together expert input on Giant Kelp Forest conservation to inform the review of conservation advice under the EPBC Act. This informed a key stakeholder workhop held for DCCEEW to progress this work.  
 - Methods:
-  - Expert engagement
-- Outputs: White paper
+  - Expert engagement to inform the development of the White Paper
+  - Workshop and pre-workshop survey with key stakeholders following the development of the White Paper
+- Outputs: 
+  - Giant Kelp Marine Forest COnservation and Recovery White paper 
+  - Key stakeholder survey and workshop
+  - Consultation reoprt 
 - Tags: Conservation, Policy Advice, Stakeholder Engagement
 
 ### Marine Estate Management Review
@@ -132,7 +158,7 @@
 - Client: Centre for Marine Socioecology (and the ABC)
 - Overview: Understanding how improved marine governance can guide more responsible, equitable, and effective interventions in climate-impacted oceans
 - Methods:
-  - Survey analysis
+  - Survey analysis of 100's of responses from a range of stakeholders and sectors
 - Outputs: survey analysis to support a marine intervention governance protocol and self-assessment tool to help decision makers identify governance capacity and needs, and to provide guidance on approaches to ensure responsible and effective intervention.
 - Tags: Marine Governance, Stakeholder Survey
 
