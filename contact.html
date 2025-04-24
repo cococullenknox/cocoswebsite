@@ -81,6 +81,7 @@
                     <div class="col-lg-8">
                         <div class="contact-form-wrapper">
                             <form id="contactForm" class="contact-form" action="https://formspree.io/f/mdkgobez" method="POST">
+                                <input type="hidden" name="_subject" value="New contact form submission from website">
                                 <div class="row">
                                     <div class="col-md-6 mb-4">
                                         <div class="form-group">
@@ -91,7 +92,7 @@
                                     <div class="col-md-6 mb-4">
                                         <div class="form-group">
                                             <label for="email" class="form-label">Email</label>
-                                            <input type="email" class="form-control" id="email" name="email" required>
+                                            <input type="email" class="form-control" id="email" name="_replyto" required>
                                         </div>
                                     </div>
                                 </div>
@@ -192,16 +193,27 @@
                     'Accept': 'application/json'
                 }
             })
-            .then(response => response.json())
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
             .then(data => {
-                // Show success message
-                successMessage.classList.remove('d-none');
-                // Reset form
-                this.reset();
+                if (data.ok) {
+                    // Show success message
+                    successMessage.classList.remove('d-none');
+                    // Reset form
+                    this.reset();
+                } else {
+                    throw new Error('Form submission failed');
+                }
             })
             .catch(error => {
+                console.error('Error:', error);
                 // Show error message
                 errorMessage.classList.remove('d-none');
+                errorMessage.textContent = 'Oops! There was a problem submitting your message. Please try again or email directly to hi@cococullenknox.com.au';
             })
             .finally(() => {
                 // Reset button state
