@@ -172,7 +172,7 @@ h1, h2, h3, .navbar-brand {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 0.85;
+    opacity: 0.95;
     z-index: 1;
 }
 
@@ -183,7 +183,7 @@ h1, h2, h3, .navbar-brand {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.7));
+    background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.4));
     z-index: 1;
 }
 
@@ -205,7 +205,7 @@ h1, h2, h3, .navbar-brand {
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
     margin: 1rem 0 2rem;
     line-height: 1.1;
-    font-size: clamp(3.5rem, 8vw, 6rem);
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
     font-weight: 300;
     letter-spacing: 0.02em;
 }
@@ -217,7 +217,7 @@ h1, h2, h3, .navbar-brand {
 
 @media (max-width: 768px) {
     .hero-section .display-1 {
-        font-size: clamp(2.5rem, 6vw, 4rem);
+        font-size: clamp(2rem, 5vw, 3.5rem);
     }
 }
 
