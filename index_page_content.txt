@@ -2,7 +2,7 @@
 
 ## HERO SECTION
 - Subtitle: Environmental Sociologist
-- Heading: Bridging Science & Society
+- Heading: HUMAN SOLUTIONS TO ENVIRONMENTAL CHALLANGES
 - Button: View Services
 
 ## BACKGROUND SECTION
