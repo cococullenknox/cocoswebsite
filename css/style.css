@@ -910,14 +910,18 @@ h1, h2, h3, .navbar-brand {
 }
 
 .service-icon {
-    width: 60px;
-    height: 60px;
-    background-color: var(--white);
+    min-width: 50px;
+    min-height: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: var(--accent);
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 1rem;
+    color: var(--white);
+    font-size: 1.5rem;
+    flex-shrink: 0;
 }
 
 .service-icon i {
@@ -953,8 +957,11 @@ h1, h2, h3, .navbar-brand {
     }
     
     .service-icon {
-        width: 50px;
-        height: 50px;
+        min-width: 40px;
+        min-height: 40px;
+        width: 40px;
+        height: 40px;
+        font-size: 1.25rem;
     }
     
     .service-icon i {
@@ -2095,6 +2102,7 @@ textarea.form-control {
 .process-activities {
     margin-top: 5rem;
     padding: 2rem 0;
+    width: 100%;
 }
 
 .process-activities h3 {
@@ -2124,6 +2132,8 @@ textarea.form-control {
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
     transition: all 0.3s ease;
+    width: 100%;
+    height: 100%;
 }
 
 .process-step:hover {
@@ -2135,10 +2145,14 @@ textarea.form-control {
     display: flex;
     align-items: center;
     margin-bottom: 2rem;
-    justify-content: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 1rem;
 }
 
 .process-icon {
+    min-width: 50px;
+    min-height: 50px;
     width: 50px;
     height: 50px;
     background-color: var(--accent);
@@ -2146,15 +2160,27 @@ textarea.form-control {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 1rem;
     color: var(--white);
     font-size: 1.5rem;
+    flex-shrink: 0;
 }
 
-.process-header h4 {
+.process-header h3 {
     margin: 0;
-    color: var(--accent);
+    margin-left: 1rem;
     font-size: 1.5rem;
+    color: var(--accent);
+    font-weight: bold;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    max-width: calc(100% - 70px);
+}
+
+@media (max-width: 768px) {
+    .process-header h3 {
+        font-size: 1.25rem;
+    }
 }
 
 .process-activities-list {
@@ -2170,6 +2196,7 @@ textarea.form-control {
     border-radius: 8px;
     background-color: var(--beige);
     transition: all 0.3s ease;
+    width: 100%;
 }
 
 .activity-item:hover {
@@ -2177,34 +2204,29 @@ textarea.form-control {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
 }
 
-.activity-icon {
-    width: 40px;
-    height: 40px;
-    background-color: var(--accent-light);
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-right: 1rem;
-    color: var(--white);
-    font-size: 1rem;
-    flex-shrink: 0;
-}
-
 .activity-content {
     flex: 1;
+    min-width: 0;
 }
 
 .activity-content h5 {
-    margin: 0 0 0.5rem 0;
+    margin: 0 0 0.75rem 0;
     color: var(--accent);
     font-size: 1.1rem;
+    line-height: 1.4;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .activity-content p {
     margin: 0;
     font-size: 0.9rem;
     color: var(--gray);
+    line-height: 1.6;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 /* Responsive styles for process activities */
@@ -2214,7 +2236,7 @@ textarea.form-control {
     }
     
     .activity-item {
-        padding: 1rem;
+        min-width: 200px;
     }
     
     .process-header {
@@ -2433,4 +2455,102 @@ textarea.form-control {
     font-size: 0.875rem;
     line-height: 1.6;
     color: var(--black);
+}
+
+/* Approach Cards Row */
+.row {
+    --bs-gutter-x: 2rem;
+    --bs-gutter-y: 2rem;
+}
+
+@media (max-width: 991px) {
+    .col-md-4 {
+        width: 100%;
+    }
+}
+
+/* Process Activities Section */
+.process-activities {
+    margin-top: 5rem;
+    padding: 2rem 0;
+    width: 100%;
+}
+
+.process-activities .row {
+    --bs-gutter-x: 2rem;
+    --bs-gutter-y: 2rem;
+}
+
+@media (max-width: 991px) {
+    .process-activities .col-md-4 {
+        width: 100%;
+    }
+}
+
+.process-step {
+    margin-bottom: 3rem;
+    position: relative;
+    padding: 2rem;
+    background-color: var(--white);
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+    width: 100%;
+    height: 100%;
+}
+
+.process-activities-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.activity-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 1.5rem;
+    border-radius: 8px;
+    background-color: var(--beige);
+    transition: all 0.3s ease;
+    width: 100%;
+}
+
+.activity-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.activity-content h5 {
+    margin: 0 0 0.75rem 0;
+    color: var(--accent);
+    font-size: 1.1rem;
+    line-height: 1.4;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.activity-content p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--gray);
+    line-height: 1.6;
+    white-space: normal;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+.activity-icon {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    background-color: var(--accent-light);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1rem;
+    color: var(--white);
+    font-size: 1rem;
+    flex-shrink: 0;
 } 
