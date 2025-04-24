@@ -200,8 +200,22 @@ h1, h2, h3, .navbar-brand {
 
 .hero-section .display-1 {
     color: var(--white);
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
     margin: 1rem 0 2rem;
+    line-height: 1.2;
+}
+
+.hero-section .display-1 br {
+    display: block;
+    content: "";
+    margin: 0.5rem 0;
+}
+
+@media (max-width: 768px) {
+    .hero-section .display-1 {
+        font-size: clamp(2rem, 6vw, 3.5rem);
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
 }
 
 /* Enhanced Expertise Section */
