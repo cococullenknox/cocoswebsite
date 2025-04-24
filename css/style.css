@@ -195,13 +195,30 @@ h1, h2, h3, .navbar-brand {
 .hero-section .subtitle {
     color: var(--white);
     opacity: 0.9;
-    font-weight: 500;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    margin-bottom: 1rem;
 }
 
 .hero-section .display-1 {
     color: var(--white);
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
     margin: 1rem 0 2rem;
+    line-height: 1.1;
+    font-size: clamp(3.5rem, 8vw, 6rem);
+    font-weight: 300;
+    letter-spacing: 0.02em;
+}
+
+.hero-section .display-1 .line {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+    .hero-section .display-1 {
+        font-size: clamp(2.5rem, 6vw, 4rem);
+    }
 }
 
 /* Enhanced Expertise Section */
