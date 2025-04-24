@@ -31,7 +31,6 @@ h1, h2, h3, .navbar-brand {
     text-transform: uppercase;
     letter-spacing: 0.02em;
     margin-top: 1rem;
-    white-space: nowrap;
 }
 
 .subtitle {
@@ -212,9 +211,6 @@ h1, h2, h3, .navbar-brand {
     font-size: clamp(2rem, 5vw, 3.5rem);
     font-weight: 300;
     letter-spacing: 0.02em;
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
     max-width: 100%;
 }
 
@@ -226,9 +222,8 @@ h1, h2, h3, .navbar-brand {
 }
 
 @media (max-width: 768px) {
-    .hero-section .display-1 {
+    .display-1 {
         font-size: clamp(1.8rem, 6vw, 2.5rem);
-        white-space: normal;
     }
 }
 
