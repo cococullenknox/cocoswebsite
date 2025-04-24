@@ -910,23 +910,23 @@ h1, h2, h3, .navbar-brand {
 }
 
 .service-icon {
-    min-width: 50px;
-    min-height: 50px;
-    width: 50px;
-    height: 50px;
-    background-color: var(--accent);
+    width: 60px;
+    height: 60px;
+    background-color: white;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--white);
-    font-size: 1.5rem;
-    flex-shrink: 0;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    position: relative;
+    z-index: 2;
 }
 
 .service-icon i {
     color: var(--accent);
     font-size: 1.5rem;
+    display: inline-block;
 }
 
 .service-card .btn-outline-primary {
