@@ -162,65 +162,69 @@
 
     <!-- JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="js/main.js"></script>
     
     <!-- Form handling script -->
     <script>
-        document.getElementById('contactForm').addEventListener('submit', function(event) {
-            event.preventDefault();
-            
-            // Show loading state
-            const submitButton = document.getElementById('submitButton');
-            const buttonText = submitButton.querySelector('.button-text');
-            const spinner = submitButton.querySelector('.spinner-border');
-            const successMessage = document.getElementById('submitSuccessMessage');
-            const errorMessage = document.getElementById('submitErrorMessage');
-            
-            // Reset messages
-            successMessage.classList.add('d-none');
-            errorMessage.classList.add('d-none');
-            
-            // Show loading state
-            buttonText.textContent = 'Sending...';
-            spinner.classList.remove('d-none');
-            submitButton.disabled = true;
-            
-            // Submit the form
-            fetch(this.action, {
-                method: 'POST',
-                body: new FormData(this),
-                headers: {
-                    'Accept': 'application/json'
-                }
-            })
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                return response.json();
-            })
-            .then(data => {
-                if (data.ok) {
-                    // Show success message
-                    successMessage.classList.remove('d-none');
-                    // Reset form
-                    this.reset();
-                } else {
-                    throw new Error('Form submission failed');
-                }
-            })
-            .catch(error => {
-                console.error('Error:', error);
-                // Show error message
-                errorMessage.classList.remove('d-none');
-                errorMessage.textContent = 'Oops! There was a problem submitting your message. Please try again or email directly to hi@cococullenknox.com.au';
-            })
-            .finally(() => {
-                // Reset button state
-                buttonText.textContent = 'Send Message';
-                spinner.classList.add('d-none');
-                submitButton.disabled = false;
-            });
+        document.addEventListener('DOMContentLoaded', function() {
+            const contactForm = document.getElementById('contactForm');
+            if (contactForm) {
+                contactForm.addEventListener('submit', function(event) {
+                    event.preventDefault();
+                    
+                    // Show loading state
+                    const submitButton = document.getElementById('submitButton');
+                    const buttonText = submitButton.querySelector('.button-text');
+                    const spinner = submitButton.querySelector('.spinner-border');
+                    const successMessage = document.getElementById('submitSuccessMessage');
+                    const errorMessage = document.getElementById('submitErrorMessage');
+                    
+                    // Reset messages
+                    successMessage.classList.add('d-none');
+                    errorMessage.classList.add('d-none');
+                    
+                    // Show loading state
+                    buttonText.textContent = 'Sending...';
+                    spinner.classList.remove('d-none');
+                    submitButton.disabled = true;
+                    
+                    // Submit the form
+                    fetch(this.action, {
+                        method: 'POST',
+                        body: new FormData(this),
+                        headers: {
+                            'Accept': 'application/json'
+                        }
+                    })
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Network response was not ok');
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        if (data.ok) {
+                            // Show success message
+                            successMessage.classList.remove('d-none');
+                            // Reset form
+                            this.reset();
+                        } else {
+                            throw new Error('Form submission failed');
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        // Show error message
+                        errorMessage.classList.remove('d-none');
+                        errorMessage.textContent = 'Oops! There was a problem submitting your message. Please try again or email directly to hi@cococullenknox.com.au';
+                    })
+                    .finally(() => {
+                        // Reset button state
+                        buttonText.textContent = 'Send Message';
+                        spinner.classList.add('d-none');
+                        submitButton.disabled = false;
+                    });
+                });
+            }
         });
     </script>
 </body>
