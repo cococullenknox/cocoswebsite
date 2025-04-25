@@ -1,70 +1,47 @@
 # INSIGHTS PAGE CONTENT
 
 ## HERO SECTION
-- Heading: Insights & Resources
-- Subtitle: Environmental Governance Knowledge Hub
+- Subtitle: BLOG & INSIGHTS
+- Heading: Environmental Perspectives
+- Lead Text: Exploring the intersection of environmental science, sociology, and policy through thoughtful analysis and research insights.
 
-## INSIGHTS OVERVIEW
-- Text: [Overview of your insights and resources]
+## FEATURED POST
+- Category: Research
+- Date: March 15, 2024
+- Title: The Role of Social Science in Marine Conservation
+- Summary: How understanding human behavior and social dynamics is crucial for effective marine conservation strategies.
+- Icon: Water (fas fa-water)
+- Button: Read More
 
-## FEATURED INSIGHTS
+## BLOG POSTS
 
-### Insight 1
-- Title: [Insight Title]
-- Category: [Category]
-- Date: [Publication Date]
-- Summary: [Brief summary of the insight]
-- Key Points:
-  - [Point 1]
-  - [Point 2]
-  - [Point 3]
+### Blog Post 1
+- Category: Policy
+- Date: March 10, 2024
+- Title: Climate Change Policy: A Social Perspective
+- Summary: Examining how social factors influence climate change policy adoption and implementation.
+- Icon: Globe Americas (fas fa-globe-americas)
 
-### Insight 2
-- Title: [Insight Title]
-- Category: [Category]
-- Date: [Publication Date]
-- Summary: [Brief summary of the insight]
-- Key Points:
-  - [Point 1]
-  - [Point 2]
-  - [Point 3]
+### Blog Post 2
+- Category: Research
+- Date: March 5, 2024
+- Title: Community Engagement in Environmental Projects
+- Summary: Best practices for involving local communities in environmental conservation efforts.
+- Icon: Users (fas fa-users)
 
-### Insight 3
-- Title: [Insight Title]
-- Category: [Category]
-- Date: [Publication Date]
-- Summary: [Brief summary of the insight]
-- Key Points:
-  - [Point 1]
-  - [Point 2]
-  - [Point 3]
+### Blog Post 3
+- Category: Analysis
+- Date: February 28, 2024
+- Title: Sustainable Fisheries: A Social-Ecological Approach
+- Summary: Understanding the complex relationship between social and ecological systems in fisheries management.
+- Icon: Fish (fas fa-fish)
 
-## RESOURCES SECTION
-- Heading: Resources
-- Text: [Introduction to resources]
-
-### Resource Categories
-1. Environmental Governance
-   - [Resource 1]
-   - [Resource 2]
-   - [Resource 3]
-
-2. Stakeholder Engagement
-   - [Resource 1]
-   - [Resource 2]
-   - [Resource 3]
-
-3. Policy Development
-   - [Resource 1]
-   - [Resource 2]
-   - [Resource 3]
-
-4. Knowledge Translation
-   - [Resource 1]
-   - [Resource 2]
-   - [Resource 3]
-
-## CONTACT SECTION
+## NEWSLETTER SECTION
 - Heading: Stay Updated
-- Text: Subscribe to receive the latest insights and resources.
-- Button: Subscribe 
+- Text: Subscribe to receive new insights and research updates directly in your inbox.
+- Form: Email input field with Subscribe button
+
+## FOOTER
+- Acknowledgment: I acknowledge the Traditional Owners of the land on which I live and work, and pay my respects to their Elders past and present. I recognise the deep and ongoing connection that First Nations peoples have to Country—land, waters, skies, and culture—and acknowledge their enduring knowledge systems and custodianship. I am committed to listening, learning, and working in ways that support self-determination and respectful collaboration.
+- Copyright: © 2025 Coco Cullen-Knox | ABN 94 690 191 948
+- Social Links: LinkedIn 
